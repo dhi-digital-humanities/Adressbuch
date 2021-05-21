@@ -1,0 +1,971 @@
+id,name_old_verbatim,name_old_clean,name_new,geo_long,geo_lat
+1,De La Motte Picquet,Avenue De La Motte-piquet,avenue de La Motte-Picquet,2.307759,48.855798
+2,Des Champs Elysées,Avenue Des Champs-elysées,Avenue des Champs-Élysées,2.30786,48.86967
+3,Marbeuf,Avenue Marbeuf,,,
+4,De Cherbourg,Galerie De Cherbourg,rue Joseph-Sansbœuf,2.32294,48.8755
+5,Guéménée,Impasse Guéménée,impasse Guéménée,2.36577,48.8541
+6,De L' Opéra,Passage De L' Opéra,boulevard des Italiens,2.33699722,48.87141944
+7,D'antin,Rue D' Antin,rue d'Antin,2.33351,48.869
+8,D' Astorg,Rue D'astorg,rue d'Astorg,2.31949,48.8731
+9,D' Aguesseau,Rue D' Aguesseau,rue d'Aguesseau,2.31963,48.8705
+10,D' Albouy,Rue D' Albouy,rue Lucien-Sampaix,2.36086,48.8723
+11,D' Alger,Rue D' Alger,rue d'Alger,2.32995,48.8656
+12,D' Amboise,Rue D' Amboise,rue d'Amboise,2.33863,48.8711
+13,D' Amsterdam,Rue D' Amsterdam,rue d'Amsterdam,2.32703,48.87954
+14,D' Angiviller,Rue D' Angiviller,rue du Louvre,2.34245,48.8641
+15,D' Angoulême Du Temple,Rue D' Angoulême-du-temple,rue Jean-Pierre-Timbaud,2.3743,48.8669
+16,D' Angoulême Saint Honoré,Rue D' Angoulême-saint-honoré,rue La Boétie,2.3123,48.8732
+17,D' Anjou Au Marais,Rue D' Anjou-au-marais,rue Pastourelle,2.3591666666667,48.862777777778
+18,Monthyon,Rue Monthyon,rue Mouton-Duvernet,2.32788,48.8319
+19,D' Anjou Saint Honoré,Rue D' Anjou-saint-honoré,rue d'Anjou,2.32213,48.8726
+21,D' Arcole,Rue D' Arcole,rue d'Arcole,2.34954,48.8541
+22,D' Argenteuil,Rue D' Argenteuil,rue d'Argenteuil,2.3338611111111,48.865427777778
+23,Quintaine,Rue Quintaine,,,
+24,D' Arras,Rue D' Arras,rue d'Arras,2.3516,48.8474
+25,D' Assas,Rue D' Assas,rue d'Assas,2.3319444444444,48.845277777778
+26,De La Chapelle,Rue De La Chapelle,rue Riquet,2.36848,48.8896
+27,D' Aumale,Rue D' Aumale,rue d'Aumale,2.3359,48.8782
+28,D' Austerlitz St Marcel,Rue D' Austerlitz-st-marcel,rue Esquirol,2.36046,48.8349
+29,D' Enfer,Rue D' Enfer,avenue Denfert-Rochereau,2.33452,48.836493
+30,D' Enghien,Rue D' Enghien,rue d'Enghien,2.35066,48.872
+31,De L' Eglise,Rue De L' Eglise,rue des Batignolles,2.32125,48.8847
+32,Cour Des Miracles,Cour Des Miracles,,,
+33,D' Estrées,Rue D' Estrées,rue d'EstrÃ©es,2.31129,48.8515
+34,D' Hauteville,Rue D' Hauteville,rue d'Hauteville,2.35065,48.8741
+35,D' Orléans Saint Marcel,Rue D' Orléans-saint-marcel,rue Daubenton,2.35237,48.841
+36,Cardinet,Rue Cardinet,rue Cardinet,2.31128,48.8854
+37,De La Butte Chaumont,Boulevard De La Butte Chaumont,boulevard de la Villette,2.37043,48.87852
+40,De Strasbourg,Rue De Strasbourg,rue du 8-Mai-1945,2.35875,48.87605556
+41,De L' Abbaye,Rue De L' Abbaye,rue de l'Abbaye,2.3347222222222,48.854222222222
+42,De L' Ancienne Comédie,Rue De L' Ancienne-comédie,rue de l'Ancienne-Comédie,2.33856,48.8532
+43,D' Isly,Passage D' Isly,,,
+44,De L' Arbalète,Rue De L' Arbalète,rue de l'Arbalète,2.34746,48.8399
+45,De L' Arbre Sec,Rue De L' Arbre-sec,rue de l'Arbre-Sec,2.34215,48.86
+46,De L' Arcade,Rue De L' Arcade,rue de l'Arcade,2.32419,48.873
+47,De L' Arcade Colbert,Rue De L' Arcade-colbert,rue Colbert,2.33836,48.8682
+48,De L' Arche Pépin,Rue De L' Arche-pépin,rue Ã‰douard-Colonne,2.34556,48.8579
+49,De L' Echaudé Saint Germain,Rue De L' Echaudé-saint-germain,rue de l'échaudé,2.33608,48.8539
+50,De L' Echelle,Rue De L' Echelle,rue de l'échelle,2.33399,48.8635
+51,De L' Echiquier,Rue De L' Echiquier,rue de l'échiquier,2.35043,48.8715
+52,Des Poissonniers,Rue Des Poissonniers,rue des Poissonniers,2.35111,48.8878
+53,De L' Ecole De Médecine,Rue De L' Ecole De Médecine,rue de l'Ã‰cole-de-MÃ©decine,2.341,48.8509
+54,De L' Ecole De Médecine,Rue De L' Ecole-de-médecine,rue de l'Ã‰cole-de-MÃ©decine,2.341,48.8509
+55,De L' Egoût Saint Germain,Rue De L' Egoût-saint-germain,rue de Rennes,2.32921,48.8495
+56,De L' Entrepôt,Rue De L' Entrepôt,rue Yves-Toudic,2.36388889,48.86972222
+57,De L' Eperon,Rue De L' Eperon,rue de l'éperon,2.34066,48.8527
+58,De Rochechouart,Boulevard De Rochechouart,boulevard Marguerite-de-Rochechouart,2.343047,48.882586
+59,De L' Hôtel Colbert,Rue De L' Hôtel-colbert,rue de l'Hôtel-Colbert,2.34901,48.851845
+60,De L' Isly,Rue De L' Isly,rue de l'Isly,2.32582,48.8748
+61,De L' Odéon,Rue De L' Odéon,rue de l'Odéon,2.33869444,48.85086111
+62,De L' Ouest,Rue De L' Ouest,rue de l'Ouest,2.31713,48.8349
+63,Ferme,Ferme,,,
+64,Des Batignolles Monceaux,Boulevard Des Batignolles-monceaux,boulevard des Batignolles,2.32157,48.882215
+65,De La Chapelle Saint Denis,Boulevard De La Chapelle-saint-denis,boulevard de la Chapelle,2.35916667,48.88416667
+66,Des Vertus,Boulevard Des Vertus,boulevard de la Chapelle,2.35916667,48.88416667
+67,De L' Université,Rue De L' Université,rue de l'Université,2.31594,48.8609
+68,D' Allemagne,Rue D' Allemagne,avenue Jean-JaurÃ¨s,2.38337,48.8862
+69,De La Banque,Rue De La Banque,rue de la Banque,2.34103,48.8681
+70,D' Antin,Rue D' Antin,rue Biot,2.32563,48.8848
+71,De La Barillerie,Rue De La Barillerie,boulevard du Palais,2.3457725,48.8551865
+72,De La Bibliothèque,Rue De La Bibliothèque,rue de Rivoli,2.3536722222222,48.856916666667
+73,De La Bienfaisance,Rue De La Bienfaisance,rue de la Bienfaisance,2.31704,48.8766
+74,De La Boucherie Des Invalides,Rue De La Boucherie-des-invalides,rue Surcouf,2.3094,48.8613
+75,De La Bourse,Rue De La Bourse,rue de la Bourse,2.33963,48.86951
+76,De La Calandre,Rue De La Calandre,,,
+77,De La Cerisaie,Rue De La Cerisaie,rue de la Cerisaie,2.36615,48.8519
+78,De La Chaise,Rue De La Chaise,,,
+79,De La Chaussée D' Antin,Rue De La Chaussée D' Antin,rue de la ChaussÃ©e-d'Antin,2.3327777777778,48.873888888889
+80,De La Chaussée Des Minimes,Rue De La Chaussée Des Minimes,rue de BÃ©arn,2.36618,48.8573
+81,De La Chaussée Clignancourt,Rue De La Chaussée-clignancourt,rue de Clignancourt,2.3475,48.8858
+83,De Marseille Prolongée,Rue De Marseille Prolongée,rue de CrimÃ©e,2.38174,48.8863
+84,Des Couronnes,Rue Des Couronnes,rue Polonceau,2.3535,48.8856
+85,De La Clef,Rue De La Clef,rue de la Clef,2.35261,48.8413
+86,De La Comète,Rue De La Comète,rue de la ComÃ¨te,2.30906,48.8591
+87,De La Cossonnerie,Rue De La Cossonnerie,rue de la Cossonnerie,2.3488,48.8614
+88,De La Culture Sainte Catherine,Rue De La Culture-sainte-catherine,rue ElzÃ©vir,2.36156,48.8584
+90,De La Douane,Rue De La Douane,rue LÃ©on-Jouhaux,2.36451,48.8692
+91,De Meaux,Rue De Meaux,rue de Meaux,2.37591,48.8829
+92,De La Ferme Des Mathurins,Rue De La Ferme-des-mathurins,rue Vignon,2.32612,48.8707
+93,De La Fidélité,Rue De La Fidélité,rue de la FidÃ©litÃ©,2.35625,48.8745
+94,De La Folie Méricourt,Rue De La Folie-méricourt,rue de la Folie-MÃ©ricourt,2.37095,48.8651
+95,De La Fontaine Au Roi,Rue De La Fontaine-au-roi,rue de la Fontaine-au-Roi,2.37419,48.8683
+96,De La Fontaine Du Temple,Rue De La Fontaine-du-temple,rue des Fontaines-du-Temple,2.35906,48.8657
+98,De La Fontaine Molière,Rue De La Fontaine-molière,rue MoliÃ¨re,2.33638889,48.86527778
+99,Cité De L' Union,Cité De L' Union,Cité De L' Union,,
+100,De La Fontaine Saint Georges,Rue De La Fontaine-saint-georges,rue Pierre-Fontaine,2.33404,48.8817
+101,Cité De L' Etoile,Cité De L' Etoile,avenue Carnot,2.292881,48.876211
+102,De La Gare,Rue De La Gare,,,
+103,De La Grande Chaumière,Rue De La Grande-chaumière,rue de la Grande-ChaumiÃ¨re,2.33085,48.8423
+104,De La Grande Truanderie,Rue De La Grande-truanderie,rue de la Grande-Truanderie,2.34973,48.8626
+105,De La Grange Aux Belles,Rue De La Grange-aux-belles,rue de la Grange-aux-Belles,2.36751,48.8754
+106,Blanche,Boulevard Blanche,,,
+107,De La Grange Batelière,Rue De La Grange-batelière,rue de la Grange-BateliÃ¨re,2.34169,48.8731
+108,De Rouen,Rue De Rouen,rue de Rouen,2.37464,48.8875
+109,Du Boulevard,Rue Du Boulevard,rue Darcet,2.32482,48.884
+110,De La Harpe,Rue De La Harpe,rue de la Harpe,2.3444444444444,48.852222222222
+111,De La Huchette,Rue De La Huchette,rue de la Huchette,2.3452777777778,48.853055555556
+112,De La Jussienne,Rue De La Jussienne,rue de la Jussienne,2.3439,48.8657
+113,De La Madeleine,Rue De La Madeleine,rue Pasquier,2.3235,48.8728
+114,De La Michodière,Rue De La Michodière,rue de La MichodiÃ¨re,2.33482,48.8704
+115,Des Trois Frères,Rue Des Trois-frères,rue des Trois-FrÃ¨res,2.34093,48.8848
+116,De La Monnaie,Rue De La Monnaie,rue de la Monnaie,2.34299,48.8593
+117,Des Poissonniers,Boulevard Des Poissonniers,boulevard Marguerite-de-Rochechouart,2.343047,48.882586
+118,De La Muette,Rue De La Muette,rue LÃ©on-Frot,2.38541,48.8568
+119,De La Paix,Rue De La Paix,rue de la Paix,2.3311277777778,48.869130555556
+120,De La Parchemmerie,Rue De La Parchemmerie,rue de la Parcheminerie,2.34493,48.8517
+121,De La Pépinière,Rue De La Pépinière,rue de la Pépinière,2.32187,48.8751
+122,De La Perle,Rue De La Perle,rue de la Perle,2.36106,48.8598
+123,De La Poterie Des Arcis,Rue De La Poterie-des-arcis,rue du Renard,2.35275,48.8599
+124,De La Roquette,Rue De La Roquette,rue de la Roquette,2.37837,48.8569
+125,Rochechouart,Boulevard Rochechouart,boulevard Marguerite-de-Rochechouart,2.343047,48.882586
+126,De La Santé,Rue De La Santé,rue de la SantÃ©,2.34117,48.8324
+127,De La Sourdière,Rue De La Sourdière,rue de La SourdiÃ¨re,2.33278,48.8667
+128,De La Tonnellerie,Rue De La Tonnellerie,,,
+129,De La Tour D' Auvergne,Rue De La Tour D' Auvergne,Rue Louise-Ã‰milie-de-La-Tour-d'Auvergne,2.34245,48.8794
+130,De La Verrerie,Rue De La Verrerie,rue de la Verrerie,2.3536,48.8577
+131,De La Victoire,Rue De La Victoire,rue de la Victoire,2.3352111111111,48.875180555556
+132,De L' Estrade,Place De L' Estrade,,,
+133,De Ponthieu,Rue De Ponthieu,rue de Ponthieu,2.30762,48.8713
+134,De La Vieille Monnaie,Rue De La Vieille-monnaie,,,
+135,De La Vieille Aux Veaux,Rue De La Vieille-place-aux-veaux,place du ChÃ¢telet,2.3472222222222,48.8575
+136,De La Ville L' Evêque,Rue De La Ville L' Evêque,rue de la Ville-l'Ã‰vÃªque,2.32088,48.8713
+138,De Grenelle Saint Germain,Rue De Grenelle-saint-germain,rue de Grenelle,2.31782,48.8575
+139,De La Mégisserie,Rue De La Mégisserie,quai de la MÃ©gisserie,2.34454,48.8579
+140,De Castiglione,Rue De Castiglione,rue de Castiglione,2.32818,48.8662
+141,De Babylone,Rue De Babylone,rue de Babylone,2.32128,48.8517
+142,De Bagneux,Rue De Bagneux,rue Jean-Ferrandi,2.32352,48.8468
+143,De Clichy,Rue De Clichy,rue de Clichy,2.32906,48.88
+144,De Beaujolais,Rue De Beaujolais,rue de Beaujolais,2.33858,48.8661
+145,De Beaune,Rue De Beaune,rue de Beaune,2.32948,48.8582
+146,De Beautreillis,Rue De Beautreillis,Rue Beautreillis,2.36391,48.8532
+147,De Bellechasse,Rue De Bellechasse,rue de Bellechasse,2.32243,48.8578
+148,De Bercy Saint Antoine,Rue De Bercy Saint-antoine,rue de Bercy,2.37703,48.8417
+149,De Laborde,Rue De Laborde,rue de Laborde,2.3173,48.8755
+150,De Bièvre,Rue De Bièvre,rue de BiÃ¨vre,2.35025,48.8505
+151,De Bondy,Rue De Bondy,rue RenÃ©-Boulanger,2.35916667,48.86880556
+152,De Boulogne,Rue De Boulogne,rue Ballu,2.32991,48.8819
+153,De Bourbon Villeneuve,Rue De Bourbon-villeneuve,rue d'Aboukir,2.34718,48.8678
+154,Royale Saint Honoré,Rue Royale-saint-honoré,rue Royale,2.3230555555556,48.868055555556
+155,De Bourgogne,Rue De Bourgogne,rue de Bourgogne,2.31767,48.8582
+156,Du Faubourg Saint Honoré,Rue Du Faubourg Saint-honoré,rue du Faubourg-Saint-HonorÃ©,2.318389,48.869917
+157,De Braque,Rue De Braque,rue de Braque,2.35678,48.8609
+158,De Bretagne,Rue De Bretagne,rue de Bretagne,2.36233,48.863
+159,Saint Lazare,Rue Saint-lazare,rue Saint-Lazare,2.330426,48.876062
+160,De Bussy,Rue De Bussy,rue de Buci,2.33716,48.8538
+161, Neuve Des Mathurins,Rue Neuve-des- Mathurins,rue des Mathurins,2.32595,48.8732
+162,De Castellane,Rue De Castellane,rue de Castellane,2.32506,48.8723
+163,Duphot,Rue Duphot,rue Duphot,2.32551,48.8685
+164,De Caumartin,Rue De Caumartin,rue de Caumartin,2.32824444,48.87251944
+165,De L' Oratoire Du Roule,Rue De L' Oratoire-du-roule,rue Washington,2.30298,48.8731
+166,De Mogador,Rue De Mogador,rue de Mogador,2.33136,48.8752
+167,De Chabrol,Rue De Chabrol,rue de Chabrol,2.3535,48.8769
+168,De Chaillot,Rue De Chaillot,rue de Chaillot,2.29725,48.8671
+169,De Charenton,Rue De Charenton,Rue de Charenton,2.37139,48.8522
+170,De Charonne,Rue De Charonne,rue de Charonne,2.38431,48.8545
+171,De Chartres Du Roule,Rue De Chartres-du-roule,rue de Courcelles,2.30103,48.8813
+172,De Chevreuse,Rue De Chevreuse,rue de Chevreuse,2.33153,48.8418
+173,De Choiseul,Rue De Choiseul,rue de Choiseul,2.33597,48.8706
+174,Saint Florentin,Rue Saint -florentin,rue Saint-Florentin,2.32447,48.8678
+175,De La Madeleine,Boulevard De La Madeleine,boulevard de la Madeleine,2.326494,48.869669
+176,De Cléry,Rue De Cléry,rue de ClÃ©ry,2.34778,48.8685
+177,De Miroménil,Rue De Miroménil,rue de Miromesnil,2.3157,48.876
+178,Du Rocher,Rue Du Rocher,rue du Rocher,2.32012,48.878
+179,De Cotte,Rue De Cotte,rue de Cotte,2.37764,48.8494
+180,De Courcelles,Rue De Courcelles,rue de Courcelles,2.30103,48.8813
+181,De Crussol,Rue De Crussol,rue de Crussol,2.36816,48.8642
+182,De Damiette,Rue De Damiette,rue de Damiette,2.34844,48.8678
+183,Du Colysée,Rue Du Colysée,rue du ColisÃ©e,2.30968,48.8713
+184,Du Faubourg Saint Antoine,Rue Du Faubourg Saint-antoine,rue du Faubourg-Saint-Antoine,2.38155,48.8504
+185,De Flandre,Rue De Flandre,avenue de Flandre,2.375139,48.889178
+186,De Fleurus,Rue De Fleurus,rue de Fleurus,2.32925,48.847
+187,De Grammont,Rue De Grammont,rue de Gramont,2.3368,48.8698
+188,De La Madeleine,Place De La Madeleine,place de la Madeleine,2.325,48.8708
+189,De Grenelle,Rue De Grenelle,rue de Lourmel,2.28751,48.8451
+190,De Berlin,Rue De Berlin,rue de LiÃ¨ge,2.3263,48.8795
+191,Saint Nicolas D' Antin,Rue Saint-nicolas-d' Antin,rue de Provence,2.3362694444444,48.874172222222
+192,De Grenelle Saint Honoré,Rue De Grenelle-saint-honoré,rue Jean-Jacques-Rousseau,2.34391,48.8642
+193,De Harlay Du Palais,Rue De Harlay-du-palais,rue de Harlay,2.34307,48.8564
+194,De Jarente,Rue De Jarente,rue de Jarente,2.36289,48.8557
+195,De Jeannisson,Rue De Jeannisson,place André-Malraux,2.33528,48.8638
+196,De Jérusalem,Rue De Jérusalem,,,
+197,De Jouy,Rue De Jouy,rue de Jouy,2.35807,48.855
+198,Du Havre,Place Du Havre,place du Havre,2.32667,48.8756
+199,De La Rochefoucauld,Rue De La Rochefoucauld,rue de La Rochefoucauld,2.33495,48.8796
+200,De Lancry,Rue De Lancry,rue de Lancry,2.36227,48.8717
+201,De Lappe,Rue De Lappe,rue de Lappe,2.37297,48.8536
+202,De Laval,Rue De Laval,rue Victor-MassÃ©,2.33884,48.8807
+203,De Lavoisier,Rue De Lavoisier,rue Lavoisier,2.32117,48.8738
+204,De Lesdiguières,Rue De Lesdiguières,rue de LesdiguiÃ¨res,2.36697,48.8531
+205,De Lille,Rue De Lille,rue de Lille,2.32618,48.8596
+206,Neuve Des Capucines,Rue Neuve-des-capucines,rue des Capucines,2.32911,48.8691
+207,Des Capucines,Boulevard Des Capucines,boulevard des Capucines,2.3336111111111,48.871111111111
+208,Jean Goujon,Rue Jean-goujon,rue Jean-Goujon,2.30605,48.8657
+209,De Limoges,Rue De Limoges,rue Debelleyme,2.36325,48.8616
+210,De Londres,Rue De Londres,rue de Londres,2.32773,48.8776
+211,De Lourcine,Rue De Lourcine,rue Broca,2.34737,48.8377
+212,De Louvois,Rue De Louvois,rue de Louvois,2.33712,48.8683
+213,De Luxembourg,Rue De Luxembourg,rue Cambon,2.32704,48.8686
+214,De Lyon,Rue De Lyon,rue de Lyon,2.37079,48.8493
+215,De Malte,Rue De Malte,rue de Malte,2.36767,48.8659
+216,De Marivaux,Rue De Marivaux,rue de Marivaux,2.33754,48.8711
+217,De Marivaux Italiens,Rue De Marivaux-italiens,rue de Marivaux,2.33754,48.8711
+219,De Mazagran,Rue De Mazagran,rue de Mazagran,2.35161,48.8706
+220,De Ménilmontant,Rue De Ménilmontant,rue Oberkampf,2.37633,48.8654
+221,De Montaigne,Avenue De Montaigne,avenue Montaigne,2.306111,48.866667
+222,De Mezières,Rue De Mézières,rue de MÃ©ziÃ¨res,2.33135,48.8503
+223,De Milan,Rue De Milan,rue de Milan,2.32831,48.8788
+225,De Montaigne,Rue De Montaigne,rue Jean-Mermoz,2.31172,48.8711
+226,De Suresne,Rue De Suresne,rue de SurÃ¨ne,2.32054,48.871
+227,De Montfaucon,Rue De Montfaucon,rue de Montfaucon,2.33589,48.8527
+228,De Montholon,Rue De Montholon,rue de Montholon,2.34507,48.8765
+229,De Montmartre,Rue De Montmartre,rue Montmartre,2.3439,48.8676
+230,De Montmorency,Rue De Montmorency,rue de Montmorency,2.355,48.863055555556
+231,De Montpensier,Rue De Montpensier,rue de Montpensier,2.33697,48.8651
+232,De Moscou,Rue De Moscou,rue de Moscou,2.32413,48.8809
+233,De Mulhouse,Rue De Mulhouse,rue de Mulhouse,2.34702,48.8686
+234,De Navarin,Rue De Navarin,rue de Navarin,2.33893,48.8796
+235,De Paradis Au Marais,Rue De Paradis-au-marais,rue des Francs-Bourgeois,2.3622166666667,48.8571
+236,De Paradis Poissonnière,Rue De Paradis-poissonnière,rue de Paradis,2.35147,48.87519
+237,Carré Des Champs Elysées,Carré-des-champs-elysées,Avenue des Champs-Élysées,2.30786,48.86967
+238,De Parme,Rue De Parme,rue de Parme,2.32776,48.8813
+239,De Penthièvre,Rue De Penthièvre,rue de PenthiÃ¨vre,2.31548,48.8728
+240,De Poissy,Rue De Poissy,rue de Poissy,2.35259,48.8492
+241,De Poitou,Rue De Poitou,rue de Poitou,2.36292,48.8615
+242,Tronchet,Rue Tronchet,rue Tronchet,2.32606,48.8722
+243,De Port Mahon,Rue De Port-mahon,rue de Port-Mahon,2.33401,48.8697
+244,De Provence,Rue De Provence,rue de Provence,2.3362694444444,48.874172222222
+245,Godot,Rue Godot,rue Godot-de-Mauroy,2.32718,48.8717
+246,De Quincampoix,Rue De Quincampoix,rue Quincampoix,2.35042,48.8609
+247,De Rambouillet,Rue De Rambouillet,rue de Rambouillet,2.3798,48.8436
+248,De Reuilly,Rue De Reuilly,rue de Reuilly,2.38961,48.8448
+249,De Richelieu,Rue De Richelieu,rue de Richelieu,2.3383722222222,48.868047222222
+250,Tivoli,Rue Tivoli,rue d'AthÃ¨nes,2.32865,48.878
+251,De Rivoli,Rue De Rivoli,rue de Rivoli,2.3536722222222,48.856916666667
+252,Bizet,Rue Bizet,rue Georges Bizet,2.29731,48.8675
+253,De Rochechouart,Rue De Rochechouart,Rue Marguerite-de-Rochechouart,2.34616,48.8799
+254,Fontaine Saint Georges,Rue Fontaine-saint-georges,rue Pierre-Fontaine,2.33404,48.8817
+255,De Rumfort,Rue De Rumfort,boulevard Malesherbes,2.31387,48.87976
+256,De Valois,Galerie De Valois,galerie de Valois,2.33797,48.8641
+257,De Saint Quentin,Rue De Saint-quentin,rue de Saint-Quentin,2.35563,48.8784
+258,De Valois,Rue De Valois,rue de Valois,2.33832,48.8642
+259,Du Helder,Rue Du Helder,rue du Helder,2.33494,48.8719
+260,De Saintonge,Rue De Saintonge,rue de Saintonge,2.36389,48.863
+261,De Sartine,Rue De Sartine,,,
+262,De Savoie,Rue De Savoie,rue de Savoie,2.34144,48.8543
+263,De Seine,Rue De Seine,rue de Seine,2.33694444,48.85416667
+264,Bergère,Rue Bergère,rue BergÃ¨re,2.34519,48.8724
+265,Poissonnière,Boulevard Poissonière,boulevard PoissonniÃ¨re,2.34538,48.8711
+266,Blanche,Rue Blanche,rue Blanche,2.33142,48.8805
+267,Des Italiens,Boulevard Des Italiens,boulevard des Italiens,2.33699722,48.87141944
+268,Notre Dame De Lorette,Rue Notre-dame-de-lorette,rue Notre-Dame-de-Lorette,2.33639,48.8794
+269,De Seine Saint Germain,Rue De Seine-saint-germain,rue de Seine,2.33694444,48.85416667
+270,De Sèvres,Rue De Sèvres,rue de SÃ¨vres,2.32097,48.8486
+271,Palais Royal,Palais-royal,galerie de Valois,2.33797,48.8641
+272,Saint Marc,Rue Saint-marc,rue Saint-Marc,2.34142,48.8703
+273,Richer,Rue Richer,rue Richer,2.3454,48.8705
+274,Laffitte,Rue Laffitte,rue Laffitte,2.3379638888889,48.873861111111
+275,Du Temple,Rue Du Temple,rue du Temple,2.35657,48.8616
+276,De Thorigny,Rue De Thorigny,rue de Thorigny,2.36293,48.8598
+277,De Tournon,Rue De Tournon,rue de Tournon,2.33719,48.8504
+278,De Tracy,Rue De Tracy,rue de Tracy,2.35325,48.868
+279,De Trévise,Rue De Trévise,rue de TrÃ©vise,2.34529,48.8738
+280,Buffault,Rue Buffault,rue Buffault,2.34227,48.8761
+281,De Valence,Rue De Valence,rue de Valence,2.34997,48.838
+282,De Vannes,Rue De Vannes,,,
+283,Geoffroy Marie,Rue Geoffroy-marie,rue Geoffroy-Marie,2.34405,48.8735
+284,De Varennes,Rue De Varennes,rue Sauval,2.3425,48.8619
+285,Vivienne,Rue Vivienne,rue Vivienne,2.33974,48.8684
+286,De Varennes Saint Germain,Rue De Varennes-saint-germain,rue de Varenne,2.32205,48.8544
+287,De Vaugirard,Rue De Vaugirard,rue de Vaugirard,2.3116666666667,48.842777777778
+288,Olivier Saint Georges,Rue Olivier-saint-georges,rue de ChÃ¢teaudun,2.3372222222222,48.876111111111
+289,De Vendôme,Rue De Vendôme,rue BÃ©ranger,2.36375,48.8658
+290,De Ventadour,Rue De Ventadour,rue de Ventadour,2.33438,48.8669
+291,De Verneuil,Rue De Verneuil,rue de Verneuil,2.32876,48.8581
+292,De Viarmes,Rue De Viarmes,rue de Viarmes,2.34228,48.8628
+293,De Vienne,Rue De Vienne,rue de Vienne,2.32238,48.8777
+294,De Vintimille,Rue De Vintimille,rue de Vintimille,2.3292,48.8824
+295,Des Oiseaux,Rue Des Oiseaux,rue des Oiseaux,2.36163,48.863
+296,Des Amandiers Popincourt,Rue Des Amandiers-popincourt,rue du Chemin-Vert,2.37639,48.8596
+297,Des Amandiers Saint Jacques,Rue Des Amandiers-saint-jacques,rue Laplace,2.34748,48.8473
+298,Des Beaux Arts,Rue Des Beaux-arts,rue des Beaux-Arts,2.33566,48.8564
+299,Des Bernardins,Rue Des Bernardins,rue des Bernardins,2.3505,48.8498
+300,Des Billettes,Rue Des Billettes,rue des Archives,2.3578,48.860865
+301,Labruyère,Rue Labruyère,rue La BruyÃ¨re,2.33327,48.8796
+302,Des Blancs Manteaux,Rue Des Blancs-manteaux,rue des Blancs-Manteaux,2.35667,48.8592
+303,Des Bons Enfants,Rue Des Bons-enfants,rue des Bons-Enfants,2.33863,48.8635
+304,Sainte Anne,Rue Sainte-anne,rue Sainte-Anne,2.33599,48.8672
+305,Des Boulets,Rue Des Boulets,rue LÃ©on-Frot,2.38541,48.8568
+306,Des Bourdonnais,Rue Des Bourdonnais,rue des Bourdonnais,2.34412,48.8591
+307,Des Canettes,Rue Des Canettes,rue des Canettes,2.33361,48.8519
+308,Des Carmes,Rue Des Carmes,rue des Carmes,2.34755,48.8491
+309,Des Colonnes,Rue Des Colonnes,rue des Colonnes,2.33947,48.8693
+310,Des Coutures Saint Gervais,Rue Des Coutures-saint-gervais,rue des Coutures-Saint-Gervais,2.36202,48.8603
+311,Des Déchargeurs,Rue Des Déchargeurs,rue des DÃ©chargeurs,2.34612,48.8598
+312,Des Deux Ecus,Rue Des Deux-ecus,rue Berger,2.34605,48.8614
+313,Des Deux Ponts,Rue Des Deux-ponts,rue des Deux-Ponts,2.35638,48.8517
+314,Des Deux Portes Saint Sauveur,Rue Des Deux-portes-saint-sauveur,rue Dussoubs,2.34896,48.8659
+315,Des Enfants Rouges,Rue Des Enfants-rouges,rue des Archives,2.3578,48.860865
+316,Des Filles Du Calvaire,Rue Des Filles-du-calvaire,rue des Filles-du-Calvaire,2.36596,48.8627
+317,Bleue,Rue Bleue,rue Bleue,2.34528,48.8758
+318,Des Filles Saint Thomas,Rue Des Filles-saint-thomas,rue des Filles-Saint-Thomas,2.33906,48.8689
+319,Jouffroy,Passage Jouffroy,passage Jouffroy,2.342141,48.872549
+320,Des Fossés Du Temple,Rue Des Fossés-du-temple,rue Amelot,2.36795,48.8603
+321,Des Fossés Montmartre,Rue Des Fossés-montmartre,rue d'Aboukir,2.34718,48.8678
+322,Des Fossés Saint Bernard,Rue Des Fossés-saint-bernard,rue des FossÃ©s-Saint-Bernard,2.35447,48.8482
+323,Des Fossés Saint Marcel,Rue Des Fossés-saint-marcel,rue des FossÃ©s-Saint-Marcel,2.3561,48.8389
+324,Des Fourneaux,Rue Des Fourneaux,rue FalguiÃ¨re,2.31251,48.84
+325,Des Fourreurs,Rue Des Fourreurs,rue des Halles,2.34672,48.8598
+326,Des Francs Bourgeois Au Marais,Rue Des Francs-bourgeois-au-marais,rue des Francs-Bourgeois,2.3622166666667,48.8571
+327,Des Frondeurs,Rue Des Frondeurs,avenue de l'OpÃ©ra,2.3338194444444,48.86715
+328,Des Grands Augustins,Rue Des Grands-augustins,rue des Grands-Augustins,2.33944444,48.855
+329,Des Gravilliers,Rue Des Gravilliers,rue des Gravilliers,2.35667,48.8638
+330,Neuve Des Petits Champs,Rue Neuve-des-petits-champs,rue des Petits-Champs,2.33635,48.8669
+331,Des Grès,Rue Des Grès,rue Cujas,2.34318,48.8475
+332,Des Jeûneurs,Rue Des Jeûneurs,rue des JeÃ»neurs,2.345,48.869444444444
+333,Des Juifs,Rue Des Juifs,rue Ferdinand-Duval,2.35956,48.8566
+334,Des Lions Saint Paul,Rue Des Lions-saint-paul,rue des Lions-Saint-Paul,2.36226,48.8524
+335,Des Lombards,Rue Des Lombards,rue des Lombards,2.3491666666667,48.859305555556
+336,Des Lyonnais,Rue Des Lyonnais,rue des Lyonnais,2.34673,48.8383
+337,Des Marais Du Temple,Rue Des Marais-du-temple,rue Albert-Thomas,2.36254,48.87
+338,Des Marais Saint Germain,Rue Des Marais-saint-germain,rue Visconti,2.33556,48.8558
+339,Des Marais Saint Martin,Rue Des Marais-saint-martin,rue Albert-Thomas,2.36254,48.87
+340,Des Martyrs,Rue Des Martyrs,Rue des Martyrs,2.33972,48.88209
+341,Ménars,Rue Ménars,rue MÃ©nars,2.3384,48.8694
+342,Bréda,Rue Bréda,rue Henry-Monnier,2.33739,48.8801
+343,Des Moulins,Rue Des Moulins,rue des Moulins,2.33507,48.8668
+344,Des Noyers,Rue Des Noyers,boulevard Saint-Germain,2.336306,48.852972
+345,Des Orties Saint Honoré,Rue Des Orties-saint-honoré,,,
+346,Des Petites Ecuries,Rue Des Petites-ecuries,rue des Petites-Ã‰curies,2.35115,48.8737
+347,Montmartre,Boulevard Montmartre,boulevard Montmartre,2.341389,48.871667
+348,Des Petits Carreaux,Rue Des Petits-carreaux,rue des Petits-Carreaux,2.34722,48.8667
+349,Des Petits Pères,Rue Des Petits-pères,rue des Petits-PÃ¨res,2.34048,48.8662
+350,Des Poulies,Rue Des Poulies,rue du Louvre,2.34245,48.8641
+351,Saint Georges,Rue Saint-georges,rue Saint-Georges,2.3371,48.8763
+352,Des Prêtres Saint Germain L'auxerrois,Rue Des Prêtres-saint-germain-l'auxerrois,rue des PrÃªtres-Saint-Germain-l'Auxerrois,2.34123,48.8593
+353,Des Prouvaires,Rue Des Prouvaires,rue des Prouvaires,2.34419,48.8616
+354,Des Pyramides,Rue Des Pyramides,rue des Pyramides,2.33307,48.8651
+355,Des Quatre Fils,Rue Des Quatre-fils,rue des Quatre-Fils,2.35917,48.8607
+356,Des Quatre Vents,Rue Des Quatre-vents,rue des Quatre-Vents,2.33773,48.8517
+357,Des Récollets,Rue Des Récollets,rue des RÃ©collets,2.36109,48.8746
+358,Des Rosiers,Rue Des Rosiers,rue des Rosiers,2.35958219,48.8570917
+359,Des Saints Pères,Rue Des Saints-pères,rue des Saints-PÃ¨res,2.33089,48.8553
+360,Des Panoramas,Passage Des Panoramas,passage des Panoramas,2.3416666666667,48.871111111111
+361,Gaillon,Rue Gaillon,rue Gaillon,2.33411,48.8684
+362,Des Saussaies,Rue Des Saussaies,rue des Saussaies,2.3175,48.87125
+363,Des Terres Fortes,Rue Des Terres-fortes,rue LacuÃ©e,2.3699,48.8495
+364,Des Tournelles,Rue Des Tournelles,rue des Tournelles,2.36725,48.8563
+365,Des Trois Bornes,Rue Des Trois-bornes,rue des Trois-Bornes,2.37413,48.8671
+366,Des Trois Pavillons,Rue Des Trois-pavillons,rue ElzÃ©vir,2.36156,48.8584
+367,Des Vieilles Etuves Saint Honoré,Rue Des Vieilles-etuves-saint-honoré,rue Sauval,2.3425,48.8619
+368,Des Vieilles Etuves Saint Martin,Rue Des Vieilles-etuves-saint-martin,place Georges-Pompidou,2.35166,48.8607
+369,Des Vieilles Haudriettes,Rue Des Vieilles-haudriettes,rue des Haudriettes,2.35754,48.8616
+370,Des Vieux Augustins,Rue Des Vieux-augustins,rue d'Argout,2.34289,48.8656
+371,Saint Roch,Rue Saint-roch,rue Saint-Roch,2.33268,48.866
+372,Cité Bergère,Cité Bergère,rue BergÃ¨re,2.34519,48.8724
+373,Taitbout,Rue Taitbout,rue Taitbout,2.33523,48.8749
+374,Des Vinaigriers,Rue Des Vinaigriers,rue des Vinaigriers,2.36083333,48.87316667
+375,Des Vosges,Rue Des Vosges,rue de Birague,2.36504,48.8544
+378,Du Bac,Rue Du Bac,rue du Bac,2.3263888888889,48.856388888889
+379,Du Bouloi,Rue Du Bouloi,rue du Bouloi,2.3413,48.8638
+380,Du Bourg L' Abbé,Rue Du Bourg L' Abbé,boulevard de SÃ©bastopol,2.35138889,48.86444444
+382,Du Buisson Saint Louis,Rue Du Buisson-saint-louis,rue du Buisson-Saint-Louis,2.37407,48.8727
+383,Du Caire,Rue Du Caire,rue du Caire,2.35029,48.8677
+384,Du Château D' Eau,Rue Du Château-d' Eau,rue du ChÃ¢teau-d'Eau,2.35969,48.8704
+386,Du Château Landon,Rue Du Château-landon,rue du ChÃ¢teau-Landon,2.36358,48.8828
+387,Du Chaume,Rue Du Chaume,rue des Archives,2.3578,48.860865
+388,Du Cherche Midi,Rue Du Cherche-midi,rue du Cherche-Midi,2.32358,48.8479
+389,Du Chevalier Du Guet,Rue Du Chevalier-du-guet,rue Jean-Lantier,2.34657,48.8585
+390,Du Cirque,Rue Du Cirque,rue du Cirque,2.31542,48.8711
+391,Du Cloître Saint Jacques,Rue Du Cloître-saint-jacques,rue Pierre-Lescot,2.34889,48.8633
+392,Pigalle,Rue Pigalle,rue Jean-Baptiste-Pigalle,2.33754,48.8784
+393,Du Cloître Saint Jacques L'hôpital,Rue Du Cloître-saint-jacques-l'hôpital,rue Pierre-Lescot,2.34889,48.8633
+394,Du Cloître Saint Merri,Rue Du Cloître-saint-merri,rue du CloÃ®tre-Saint-Merri,2.35128,48.8591
+395,Du Coq De La Verrerie,Rue Du Coq-de-la-verrerie,,,
+396,Du Coq Héron,Rue Du Coq-héron,rue Coq-HÃ©ron,2.34201,48.8642
+397,Du Coq Saint Honoré,Rue Du Coq-saint-honoré,rue de Marengo,2.3393,48.8618
+398,Du Coq Saint Jean,Rue Du Coq-saint-jean,,,
+399,Du Croissant,Rue Du Croissant,rue du Croissant,2.3442,48.8689
+400,Du Cygne,Rue Du Cygne,rue du Cygne,2.34934,48.8632
+401,Du Dauphin,Rue Du Dauphin,rue Dauphine,2.3394444444444,48.855
+402,Du Dauphin,Rue Du Dauphin,rue Saint-Roch,2.33268,48.866
+403,Du Dragon,Rue Du Dragon,rue du Dragon,2.33098,48.8534
+405,Du Faubourg Poissonnière,Rue De Faubourg Poissonière,rue du Faubourg-PoissonniÃ¨re,2.34852,48.8763
+407,Notre Dame Des Victoires,Rue Notre-dame-des-victoires,rue Notre-Dame-des-Victoires,2.34175,48.8681
+410,Du Faubourg Saint Antoine,Rue Du Faubourg Saint-antoine,passage de la Bonne-Graine,2.377,48.8519
+411,Du Faubourg Saint Denis,Rue Du Faubourg-saint-denis,rue du Faubourg-Saint-Denis,2.3544444444444,48.873055555556
+412,Du Faubourg Du Temple,Rue Du Faubourg-du-temple,rue du Faubourg-du-Temple,2.37061,48.8698
+413,Du Faubourg Montmartre,Rue Du Faubourg-montmartre,rue du Faubourg-Montmartre,2.34263,48.8737
+414,Lamartine,Rue Lamartine,rue Lamartine,2.34083,48.8766
+415,Du Faubourg Poissonnière,Rue Du Faubourg Poissonnière,rue du Faubourg-PoissonniÃ¨re,2.34852,48.8763
+417,Du Faubourg Saint Denis,Rue Du Faubourg-saint-denis,rue Jarry,2.356028,48.873985
+418,Du Faubourg Saint Martin,Rue Du Faubourg-saint-martin,rue du Faubourg-Saint-Martin,2.36094,48.8767
+419,Choiseul,Passage Choiseul,passage Choiseul,2.33575344,48.86901986
+420,Du Fer À Moulin,Rue Du Fer-à-moulin,rue du Fer-Ã -Moulin,2.35381,48.839
+421,Du Foin Au Marais,Rue Du Foin-au-marais,rue du Foin,2.36519,48.8569
+422,Du Four Saint Germain,Rue Du Four-saint-germain,rue du Four,2.3327,48.8526
+423,Du Grand Chantier,Rue Du Grand-chantier,rue des Archives,2.3578,48.860865
+424,Du Grand Hurleur,Rue Du Grand-hurleur,,,
+425,Du Grenier Saint Lazare,Rue Du Grenier-saint-lazare,rue du Grenier-Saint-Lazare,2.35355,48.8628
+426,Du Hanovre,Rue Du Hanovre,rue de Hanovre,2.33526,48.8702
+427,Du Harlay Au Marais,Rue Du Harlay-au-marais,rue des Arquebusiers,2.3666,48.8598
+428,Du Hasard,Rue Du Hasard,rue ThÃ©rÃ¨se,2.33581,48.8661
+429,Du Havre,Rue Du Havre,rue du Havre,2.32681,48.8747
+430,Du Jour,Rue Du Jour,rue du Jour,2.34472,48.8637
+431,Du Mail,Rue Du Mail,rue du Mail,2.34272,48.8669
+432,Du Marché D' Aguesseau,Rue Du Marché D' Aguesseau,rue Montalivet,2.31858,48.871
+433,Du Marché Aux Poirées,Rue Du Marché-aux-poirées,,,
+434,Du Marché Neuf,Rue Du Marché-neuf,,,
+435,Du Marché Saint Honoré,Rue Du Marché-saint-honoré,rue du MarchÃ©-Saint-HonorÃ©,2.33121,48.8661
+436,Du Mont Thabor,Rue Du Mont-thabor,rue du Mont-Thabor,2.32833,48.8658
+437,Du Pas De La Mule,Rue Du Pas-de-la-mule,rue du Pas-de-la-Mule,2.36753,48.8559
+438,Rossini,Rue Rossini,rue Rossini,2.33919,48.8731
+439,Du Perche,Rue Du Perche,rue du Perche,2.36117,48.8609
+440,Du Petit Hurleur,Rue Du Petit-hurleur,,,
+441,Du Petit Lion,Rue Du Petit-lion,rue Tiquetonne,2.34966,48.8644
+442,Du Petit Pont,Rue Du Petit-pont,rue du Petit-Pont,2.3466,48.8527
+443,Du Ponceau,Rue Du Ponceau,rue du Ponceau,2.35179,48.8668
+444,Du Regard,Rue Du Regard,rue du Regard,2.32678,48.8484
+445,Du Renard Saint Sauveur,Rue Du Renard-saint-sauveur,rue Greneta,2.35072,48.8652
+448,Du Roi De Sicile,Rue Du Roi-de-sicile,rue du Roi-de-Sicile,2.3575,48.8564
+449,Du Roule,Rue Du Roule,rue du Roule,2.34386,48.8609
+450,Du Sentier,Rue Du Sentier,rue du Sentier,2.34567,48.8687
+451,Feydeau,Rue Feydeau,rue Feydeau,2.34106,48.87
+452,Du Val Sainte Catherine,Rue Du Val-sainte-catherine,rue de Turenne,2.36456,48.8606
+453,Du Vert Bois,Rue Du Vert-bois,rue du Vertbois,2.35737,48.8672
+454,Du Vieux Colombier,Rue Du Vieux-colombier,rue du Vieux-Colombier,2.33163,48.8514
+455,Du Vieux Marché Saint Martin,Rue Du Vieux-marché-saint-martin,rue Bailly,2.3563,48.8651
+456,Du Vingt Neuf Juillet,Rue Du Vingt-neuf-juillet,rue du Vingt-Neuf-Juillet,2.33058,48.8651
+457,La Feuillade,Rue La Feuillade,rue La Feuillade,2.34025,48.866
+458,La Vrillière,Rue La Vrillière,rue La VrilliÃ¨re,2.34019,48.8655
+460,Saint Dominique Saint Germain,Rue Saint-dominique-saint-germain,boulevard Saint-Germain,2.336306,48.852972
+461,Aux Ours,Rue Aux-ours,rue Ã‰tienne-Marcel,2.34617,48.8645
+462,Jean Jacques Rousseau,Rue Jean-jacques-rousseau,rue Jean-Jacques-Rousseau,2.34391,48.8642
+463,Neuve Des Petits Champs,Rue Neuve-des-petits-champs,rue Danielle-Casanova,2.33194,48.8678
+464,Notre Dame De Nazareth,Rue Notre-dame-de-nazareth,rue Notre-Dame-de-Nazareth,2.35819,48.8674
+465,Notre Dame Des Champs,Rue Notre-dame-des-champs,rue Notre-Dame-des-Champs,2.3311,48.84358
+466,Amelot,Rue Amelot,rue Amelot,2.36795,48.8603
+467,Aumaire,Rue Aumaire,rue au Maire,2.35611,48.8647
+468,Aux Fers,Rue Aux Fers,rue Berger,2.34605,48.8614
+469,Bailleul,Rue Bailleul,rue Bailleul,2.34119,48.8611
+470,Baillif,Rue Baillif,rue Bailly,2.3563,48.8651
+471,Barbet De Jouy,Rue Barbet-de-jouy,rue Barbet-de-Jouy,2.31747,48.8533
+472,Barbette,Rue Barbette,rue Barbette,2.36078,48.8588
+473,Barrés,Rue Barrés,rue des Barres,2.35528,48.8553
+474,Basfroi,Rue Basfroi,rue Basfroi,2.37918,48.8551
+476,Basse Des Ursins,Rue Basse-des-ursins,rue des Ursins,2.35133,48.8541
+477,Basse Du Rempart,Rue Basse-du-rempart,,,
+478,Basse Du Rempart,Rue Basse-du-rempart,boulevard de la Madeleine,2.326494,48.869669
+479,Bayard,Rue Bayard,rue Bayard,2.3079,48.8653
+480,Beaubourg,Rue Beaubourg,rue Beaubourg,2.35407,48.8623
+481,Beaujon,Rue Beaujon,rue Beaujon,2.29983,48.8751
+482,Beauregard,Rue Beauregard,rue Beauregard,2.34917,48.8693
+483,Beaurepaire,Rue Beaurepaire,rue Greneta,2.35072,48.8652
+484,Bertin Poirée,Rue Bertin-poirée,rue Bertin-PoirÃ©e,2.34488,48.8589
+485,Bichat,Rue Bichat,rue Bichat,2.36638,48.8729
+486,Bonaparte,Rue Bonaparte,rue Bonaparte,2.33305556,48.85305556
+487,De Bellefond,Rue De Bellefond,rue de Bellefond,2.34652,48.878
+488,Boucher,Rue Boucher,rue Boucher,2.3442,48.8595
+489,Boursault,Rue Boursault,rue La BruyÃ¨re,2.33327,48.8796
+490,Neuve Bréda,Rue Neuve-bréda,rue Clauzel,2.33829,48.8792
+491,Cadet,Rue Cadet,rue Cadet,2.34347,48.8755
+492,Cafarelli,Rue Cafarelli,rue Caffarelli,2.36197,48.8637
+493,Carnot,Rue Carnot,rue Joseph-Bara,2.3336,48.8421
+494,Cassette,Rue Cassette,rue Cassette,2.33085,48.8498
+495,Colbert,Rue Colbert,rue Colbert,2.33836,48.8682
+496,Castex,Rue Castex,rue Castex,2.36629,48.8529
+497,Censier,Rue Censier,rue Censier,2.3519,48.8401
+498,Chabannais,Rue Chabannais,rue Chabanais,2.33696,48.8675
+499,Chanoinesse,Rue Chanoinesse,rue Chanoinesse,2.35091,48.8537
+500,Chapon,Rue Chapon,rue Chapon,2.35528,48.8636
+501,Chaptal,Rue Chaptal,rue Chaptal,2.33303,48.8809
+502,Charlot,Rue Charlot,rue Charlot,2.36292,48.8632
+503,Chastillon,Rue Chastillon,rue Vicq-d'Azir,2.37067,48.8761
+504,Chauchat,Rue Chauchat,rue Chauchat,2.33977,48.8743
+505,Clément,Rue Clément,rue ClÃ©ment,2.33612,48.8525
+506,Cloche Perce,Rue Cloche-perce,rue Cloche-Perce,2.35654,48.8561
+507,Copeau,Rue Copeau,rue LacÃ©pÃ¨de,2.35187,48.8439
+508,Coquillière,Rue Coquillière,rue CoquilliÃ¨re,2.34124,48.8644
+509,Corbeau,Rue Corbeau,rue Jacques-Louvel-Tessier,2.37126,48.8716
+510,Crébillon,Rue Crébillon,rue CrÃ©billon,2.33826,48.8502
+511,Croix Des Petits Champs,Rue Croix-des-petits-champs,rue Croix-des-Petits-Champs,2.3393,48.8625
+512,Cuvier,Rue Cuvier,rue Cuvier,2.35798,48.8453
+513,Dauphine,Rue Dauphine,rue Dauphine,2.3394444444444,48.855
+514,Daval,Rue Daval,rue Daval,2.37083,48.8547
+515,Verdeau,Place Verdeau,passage Verdeau,2.342318,48.873532
+516,Desèze,Rue Desèze,rue de SÃ¨ze,2.32648,48.8705
+517,Drouot,Rue Drouot,rue Drouot,2.34069,48.8739
+518,Neuve Coquenard,Rue Neuve-coquenard,Rue Rodier,2.34293,48.8787
+519,Duguay Trouin,Rue Duguay-trouin,rue Duguay-Trouin,2.33023,48.8463
+520,Dupetit Thouars,Rue Dupetit-thouars,rue Dupetit-Thouars,2.36217,48.8652
+521,Saulnier,Passage Saulnier,rue Saulnier,2.34444,48.8754
+522,Papillon,Rue Papillon,rue Papillon,2.34723,48.8762
+523,Dupuytren,Rue Dupuytren,rue Dupuytren,2.3395,48.8517
+524,Faubourg Saint Antoine,Rue Faubourg Saint-antoine,passage du Chantier,2.3733,48.8513
+526,Favart,Rue Favart,rue Favart,2.33809,48.871
+527,Férou,Rue Férou,rue FÃ©rou,2.33399,48.8498
+528,Française,Rue Française,rue FranÃ§aise,2.34764,48.8643
+529,Garancière,Rue Garancière,rue GaranciÃ¨re,2.33574,48.8513
+530,Geoffroy L' Angevin,Rue Geoffroy-l' Angevin,rue Geoffroy-l'Angevin,2.35428,48.8606
+531,Geoffroy L' Asnier,Rue Geoffroy-l' Asnier,rue Geoffroy-l'Asnier,2.35639,48.8547
+534,Geoffroy Saint Hilaire,Rue Geoffroy-saint-hilaire,rue Geoffroy-Saint-Hilaire,2.35593,48.8411
+535,Godot De Mauroy,Rue Godot-de-mauroy,rue Godot-de-Mauroy,2.32718,48.8717
+536,Greffuhle,Rue Greffuhle,rue Greffulhe,2.32528,48.873
+538,Grenetat,Rue Grenetat,rue Greneta,2.35072,48.8652
+539,Grétry,Rue Grétry,rue GrÃ©try,2.33736,48.8703
+540,Guénégaud,Rue Guénégaud,rue GuÃ©nÃ©gaud,2.33882,48.8558
+541,Guérin Boisseau,Rue Guérin-boisseau,rue GuÃ©rin-Boisseau,2.35175,48.8666
+542,Hautefeuille,Rue Hautefeuille,rue Hautefeuille,2.34233,48.8519
+543,Henry,Rue Henry,,,
+544,Jacob,Rue Jacob,rue Jacob,2.33405,48.8555
+545,Jacques De Brosse,Rue Jacques-de-brosse,,,
+546,Joquelet,Rue Joquelet,rue LÃ©on-Cladel,2.3429,48.8685
+547,Joubert,Rue Joubert,rue Joubert,2.3315055555556,48.874594444444
+548,La Fayette,Rue La Fayette,rue La Fayette,2.35277778,48.87805556
+549,Laferrière,Rue Laferrière,rue LaferriÃ¨re,2.33826,48.8788
+550,Las Cases,Rue Las-cases,rue Las Cases,2.32111,48.8582
+551,Lavoisier,Rue Lavoisier,rue Lavoisier,2.32117,48.8738
+552,Lenoir,Rue Lenoir,rue d'Aligre,2.37753,48.8483
+553,Lepelletier,Rue Lepelletier,rue Le Peletier,2.33901,48.8739
+554,Louis Le Grand,Rue Louis-le-grand,rue Louis-le-Grand,2.33258,48.8688
+555,Madame,Rue Madame,rue Madame,2.3317,48.8479
+556,Malar,Rue Malar,rue Malar,2.30567,48.8608
+557,Mandar,Rue Mandar,rue Mandar,2.34596,48.8657
+558,Marie Stuart,Rue Marie-stuart,rue Marie-Stuart,2.34766,48.865
+559,Martel,Rue Martel,rue Martel,2.35305,48.8741
+560,Mauconseil,Rue Mauconseil,rue Mauconseil,2.3471,48.8641
+561,Mazarine,Rue Mazarine,rue Mazarine,2.33785,48.855
+562,Méhul,Rue Méhul,rue MÃ©hul,2.33469,48.8675
+563,Mercier,Rue Mercier,,,
+564,Meslay,Rue Meslay,rue Meslay,2.35908,48.8679
+565,De L' Evêque,Rue De L' Evêque,avenue de l'OpÃ©ra,2.3338194444444,48.86715
+566,Michel Le Comte,Rue Michel-le-comte,rue Michel-le-Comte,2.35556,48.8624
+567,Mignon,Rue Mignon,rue Mignon,2.34166,48.8521
+568,Mondétour,Rue Mondétour,rue MondÃ©tour,2.34792,48.8627
+569,Monsieur Le Prince,Rue Monsieur-le-prince,rue Monsieur-le-Prince,2.3396944444444,48.850394444444
+570,Montgolfier,Rue Montgolfier,rue Montgolfier,2.35728,48.8663
+571,Montmartre,Rue Montmartre,rue Montmartre,2.3439,48.8676
+572,Montorgueil,Rue Montorgueil,rue Montorgueil,2.3468611111111,48.864944444444
+573,Moreau,Rue Moreau,rue Moreau,2.37259,48.8497
+574,Mouffetard,Rue Mouffetard,rue Mouffetard,2.349722,48.841944
+575,Neuve De Berry,Rue Neuve-de-berry,rue de Berri,2.3051,48.8729
+576,Neuve De L' Université,Rue Neuve-de-l' Université,rue du PrÃ©-aux-Clercs,2.3301,48.8562
+577,Neuve De La Fidélité,Rue Neuve-de-la-fidélité,boulevard de Strasbourg,2.356642,48.873586
+578,Neuve De Lappe,Rue Neuve-de-lappe,rue des Taillandiers,2.37497,48.8548
+579,Neuve De Ménilmontant,Rue Neuve-de-ménilmontant,rue Commines,2.36594,48.8621
+580,Neuve Des Bons Enfants,Rue Neuve-des-bons-enfants,Rue Radziwill,2.339454,48.865735
+581,Des Petites Ecuries,Passage Des Petites-ecuries,passage des Petites-Ã‰curies,2.35228,48.8731
+582,Neuve Du Bourg L' Abbé,Rue Neuve-du-bourg-l' Abbé,rue du Bourg-l'AbbÃ©,2.35202,48.864
+584,Neuve Guillemin,Rue Neuve-guillemin,rue de Rennes,2.32921,48.8495
+585,Neuve Saint Augustin,Rue Neuve-saint-augustin,rue Daunou,2.33167,48.8694
+586,Neuve Saint Denis,Rue Neuve-saint-denis,rue Blondel,2.35304,48.8688
+587,Neuve Saint Etienne Bonne Nouvelle,Rue Neuve-saint-etienne-bonne-nouvelle,rue de la Ville-Neuve,2.34863,48.8698
+588,Neuve Saint Etienne Du Mont,Rue Neuve-saint-etienne-du-mont,rue Rollin,2.35107,48.8446
+589,Neuve Saint Etienne Saint Marcel,Rue Neuve-saint-etienne-saint-marcel,rue Rollin,2.35107,48.8446
+590,Neuve Saint Eustache,Rue Neuve-saint-eustache,rue d'Aboukir,2.34718,48.8678
+591,Neuve Saint François,Rue Neuve-saint-françois,rue Debelleyme,2.36325,48.8616
+592,Neuve Saint Merri,Rue Neuve-saint-merri,rue Saint-Merri,2.35221,48.8597
+593,Neuve Saint Sauveur,Rue Neuve-saint-sauveur,rue du Nil,2.34792,48.8678
+594,Nicolas Flamel,Rue Nicolas-flamel,rue Nicolas-Flamel,2.34944,48.8588
+595,Notre Dame De Grâce,Rue Notre-dame-de-grâce,rue Tronson-du-Coudray,2.32297,48.8731
+596,Soly,Rue Soly,rue Ã‰tienne-Marcel,2.34617,48.8645
+597,Saint Fiacre,Rue Saint-fiacre,Rue Saint-Fiacre,2.34548,48.8701
+598,Ollivier,Rue Ollivier,rue de ChÃ¢teaudun,2.3372222222222,48.876111111111
+600, Oudinot,Rue Oudinot,rue Oudinot,2.3175,48.8501
+602,Pagevin,Rue Pagevin,,,
+603,Pascal,Rue Pascal,rue Pascal,2.3485,48.8361
+604,Pastourelle,Rue Pastourelle,rue Pastourelle,2.3591666666667,48.862777777778
+605,Pavée Au Marais,Rue Pavée-au-marais,rue PavÃ©e,2.36103,48.8565
+606,Pavée Saint André Des Arts,Rue Pavée-saint-andré-des-arts,rue SÃ©guier,2.34201,48.854
+607,Percée Du Temple,Rue Percée-du-temple,,,
+608,Percée Saint André,Rue Percée-saint-andré,impasse Hautefeuille,2.343115,48.852456
+609,Pétrelle,Rue Pétrelle,rue PÃ©trelle,2.34792,48.8807
+610,Phélippeaux,Rue Phélippeaux,rue RÃ©aumur,2.34805,48.8672
+612,Pierre Levée,Rue Pierre Levée,rue de la Pierre-LevÃ©e,2.3705,48.8673
+614,Poissonnière,Rue Poissonnière,rue PoissonniÃ¨re,2.34774,48.8689
+615,Popincourt,Rue Popincourt,rue Popincourt,2.37694,48.8578
+616,Portefoin,Rue Portefoin,rue Portefoin,2.35982,48.8637
+617,Poupée,Rue Poupée,boulevard Saint-Michel,2.340428,48.846686
+618,Puits Au Marais,Rue Puits-au-marais,rue Aubriot,2.35696,48.8584
+619,Quincampoix,Rue Quincampoix,rue Quincampoix,2.35042,48.8609
+620,Racine,Rue Racine,rue Racine,2.3404,48.85
+621,Rambuteau,Rue Rambuteau,rue Rambuteau,2.351447,48.861682
+622,Rameau,Rue Rameau,rue Rameau,2.33727,48.8678
+623,Réaumur,Rue Réaumur,rue RÃ©aumur,2.34805,48.8672
+624,Renard Saint Merri,Rue Renard-saint-merri,rue du Renard,2.35275,48.8599
+625,Roquépine,Rue Roquépine,rue RoquÃ©pine,2.31982,48.8734
+626,Rougemont,Rue Rougemont,rue Rougemont,2.34583,48.8717
+627,Rousselet,Rue Rousselet,rue Rousselet,2.31835,48.8489
+628,Royer Collard,Rue Royer-collard,rue Royer-Collard,2.34193,48.8457
+630,Saint André Des Arts,Rue Saint-andré-des-arts,rue Saint-AndrÃ©-des-Arts,2.34085,48.8534
+631,Saint Antoine,Rue Saint-antoine,rue Saint-Antoine,2.36501,48.8539
+632,Saint Benoît,Rue Saint-benoît,rue Saint-BenoÃ®t,2.333,48.8548
+633,Saint Benoît Saint Germain,Rue Saint-benoît-saint-germain,boulevard Saint-Germain,2.336306,48.852972
+634,Saint Claude Au Marais,Rue Saint-claude-au-marais,rue Saint-Claude,2.36606,48.8601
+635,Saint Denis,Rue Saint-denis,rue Saint-Denis,2.35,48.86416667
+636,Saint Dominique,Rue Saint-dominique,rue Saint-Dominique,2.3105555555556,48.86
+637,Saint Etienne,Rue Saint-etienne,rue Dulong,2.31644,48.8851
+638,Colbert,Galerie Colbert,rue Vivienne,2.33974,48.8684
+639,Saint Germain L'auxerrois,Rue Saint-germain-l' Auxerrois,rue Saint-Germain-l'Auxerrois,2.34462,48.8583
+641,Saint Gervais,Rue Saint-gervais,rue de Thorigny,2.36293,48.8598
+642,Saint Gilles,Rue Saint-gilles,rue Saint-Gilles,2.36606,48.8579
+643,Saint Guillaume,Rue Saint-guillaume,rue Saint-Guillaume,2.3285545,48.8543408
+644,Saint Hilaire,Rue Saint-hilaire,rue de Lanneau,2.3466,48.8483
+645, Saint Hippolyte,Rue Saint-hippolyte,boulevard Arago,2.3432134,48.8348249
+646,Rotonde Colbert,Rotonde Colbert,rue Vivienne,2.33974,48.8684
+647,Saint Honoré,Rue Saint-honoré,Rue Saint-Honoré,2.3322222222222,48.864722222222
+648,De Mazagran,Impasse De Mazagran,rue de Mazagran,2.35161,48.8706
+649,Saint Jacques,Rue Saint-jacques,"Rue Saint-Jacques, Paris",2.3433333333333,48.846666666667
+650,Saint Jean Baptiste,Rue Saint-jean-baptiste,rue Roy,2.31846,48.8751
+651,Saint Jean De Beauvais,Rue Saint-jean-de-beauvais,rue Jean-de-Beauvais,2.34678,48.8493
+652,Saint Joseph,Rue Saint-joseph,rue Saint-Joseph,2.34444,48.8685
+653,Saint Julien Le Pauvre,Rue Saint-julien-le-pauvre,rue Saint-Julien-le-Pauvre,2.34709,48.8523
+654,Du Saumon,Passage Du Saumon,rue Bachaumont,2.34605,48.866
+655,Saint Germain L'auxerrois,Place Saint-germain-l'auxerrois,place du Louvre,2.3405,48.86
+656,De La Mégisserie,Quai De La Mégisserie,quai de la MÃ©gisserie,2.34454,48.8579
+657,Saint Louis,Rue Saint-louis,rue Nollet,2.32119,48.887
+658,Saint Louis Au Marais,Rue Saint-louis-au-marais,rue de Turenne,2.36456,48.8606
+659,Saint Louis En Ile,Rue Saint-louis-en-ile,Rue Saint-Louis-en-l'ÃŽle,2.35694,48.8517
+660,Saint Magloire,Rue Saint-magloire,boulevard de SÃ©bastopol,2.35138889,48.86444444
+661,D' Orléans Saint Honoré,Rue D' Orléans-saint-honoré,rue du Louvre,2.34245,48.8641
+662,Saint Martin,Rue Saint-martin,rue Saint-Martin,2.3522222222222,48.862638888889
+663,Saint Maur,Rue Saint-maur,rue Saint-Maur,2.3766,48.8665
+664,Saint Maur Du Temple,Rue Saint-maur-du-temple,,,
+665,Saint Maur Popincourt,Rue Saint-maur-popincourt,rue Saint-Maur,2.3766,48.8665
+666,Saint Maur Saint Germain,Rue Saint-maur-saint-germain,rue de l'AbbÃ©-GrÃ©goire,2.32482,48.8483
+667,Saint Nicolas,Rue Saint-nicolas,rue Saint-Nicolas,2.37485,48.8516
+668,Saint Nicolas Saint Antoine,Rue Saint-nicolas-saint-antoine,rue Saint-Nicolas,2.37485,48.8516
+669,Saint Paul,Rue Saint-paul,rue Saint-Paul,2.36215,48.854
+670,Babille,Rue Babille,rue de Viarmes,2.34228,48.8628
+671,Cour Des Fontaines,Cour Des Fontaines,place de Valois,2.33812,48.8632
+672,Saint Pierre Montmartre,Rue Saint-pierre-montmartre,rue Paul-Lelong,2.34209,48.8676
+673,Saint Pierre Popincourt,Rue Saint-pierre Popincourt,rue Amelot,2.36795,48.8603
+674,De L' Ecole,Quai De L' Ecole,quai du Louvre,2.34028,48.8589
+676, Saint Sabin,Rue Saint-sabin,rue Saint-Sabin,2.36937,48.8579
+677,Saint Sauveur,Rue Saint-sauveur,rue Saint-Sauveur,2.3489,48.866
+678,Saint Sébastien,Rue Saint-sébastien,rue Saint-SÃ©bastien,2.36981,48.8613
+679,Des Fossés Saint Germain L'auxerrois,Rue Des Fossés-saint-germain-l'auxerrois,rue Perrault,2.34159,48.8603
+680,Saint Sulpice,Rue Saint-sulpice,rue Saint-Sulpice,2.33623,48.8514
+681,Saint Victor,Rue Saint-victor,rue Saint-Victor,2.3504,48.8486
+682,Notre Dame De Bonne Nouvelle,Rue Notre-dame-de-bonne-nouvelle,rue Notre-Dame-de-Bonne-Nouvelle,2.34969,48.8695
+683,Claude Vellefaux,Rue Claude-vellefaux,avenue Claude-Vellefaux,2.370278,48.875833
+684,Sainte Apolline,Rue Sainte-apolline,rue Sainte-Apolline,2.35386,48.869
+685,Sainte Croix De La Bretonnerie,Rue Sainte-coix-de-la-bretonnerie,rue Sainte-Croix-de-la-Bretonnerie,2.35572,48.8584
+686,Sainte Elisabeth,Rue Sainte-elisabeth,rue Sainte-Ã‰lisabeth,2.35954,48.8659
+687,Sainte Marguerite Saint Germain,Rue Sainte-marguerite-saint-germain,boulevard Saint-Germain,2.336306,48.852972
+688,Salle Au Comte,Rue Salle-au-comte,,,
+689,Serpente,Rue Serpente,rue Serpente,2.34247,48.8521
+690,Saint Spire,Rue Saint-spire,rue Saint-Spire,2.3503,48.8684
+691,Saint Martin,Boulevard Saint- Martin,boulevard Saint-Martin,2.358134,48.868575
+692,Servandoni,Rue Servandoni,rue Servandoni,2.33473,48.85
+693,Simon Le Franc,Rue Simon-le-franc,rue Simon-le-Franc,2.3537,48.8601
+694,Soufflot,Rue Soufflot,rue Soufflot,2.34278,48.8469
+695,Suger,Rue Suger,rue Suger,2.3418,48.853
+696,Thérèse,Rue Thérèse,rue ThÃ©rÃ¨se,2.33581,48.8661
+697,Thévenot,Rue Thévenot,rue RÃ©aumur,2.34805,48.8672
+698,Des Marais,Rue Des Marais,rue Albert-Thomas,2.36254,48.87
+699,Tiquetonne,Rue Tiquetonne,rue Tiquetonne,2.34966,48.8644
+700,Tirechappe,Rue Tirechappe,rue du Pont-Neuf,2.34381,48.8597
+701,Tiron,Rue Tiron,rue Tiron,2.35784,48.8557
+702,Traversière,Rue Traversière,rue TraversiÃ¨re,2.37316,48.8475
+703,Traversine,Rue Traversine,rue d'Arras,2.3516,48.8474
+704,Trudon,Rue Trudon,rue Boudreau,2.32887,48.8723
+705,Vanneau,Rue Vanneau,Rue Vaneau,2.3194444444444,48.850833333333
+706,Vaucanson,Rue Vaucanson,rue Vaucanson,2.35626,48.8664
+707,Vavin,Rue Vavin,rue Vavin,2.32976,48.8434
+708,Vendôme,Rue Vendôme,rue BÃ©ranger,2.36375,48.8658
+709,Vide Gousset,Rue Vide-gousset,place des Victoires,2.3411111111111,48.865833333333
+710,Vieille Du Temple,Rue Vieille-du-temple,rue Vieille-du-Temple,2.36038,48.8597
+711,Villedo,Rue Villedo,rue Villedo,2.3364,48.8662
+712,Du Caire,Passage Du Caire,passage du Caire,2.34972222,48.86833333
+713,Volta,Rue Volta,rue Volta,2.35795,48.8665
+714,Sainte Barbe,Rue Sainte-barbe,rue Thorel,2.349,48.8697
+715,Voltaire,Rue Voltaire,rue Casimir-Delavigne,2.33925,48.8504
+716,Zacharie,Rue Zacharie,rue Xavier-Privas,2.34551,48.8528
+719,A L' Asyle Lamprechts,A L' Asyle Lamprechts,,,
+720,Ancienne Halle À La Viande,Ancienne Halle À La Viande,,,
+721,Anthony,Anthony,,,
+722,Au Louvre,Au Louvre,,,
+723,Aux Stations Des Chemins De Fer,Aux Stations Des Chemins-de-fer,,,
+724,Dauphine,Avenue Dauphine,avenue Bugeaud,2.280414,48.870756
+725,De L' Observatoire,Avenue De L' Observatoire,avenue de l'Observatoire,2.3367436,48.8402906
+726,De La Santé,Avenue De La Santé,rue Ferrus,2.34067,48.831
+727,De Saint Cloud,Avenue De Saint-cloud,avenue Victor-Hugo,2.283806,48.869028
+728,Gabrielle,Avenue Gabrielle,avenue Gabriel,2.31686,48.868244
+729,Lord Byron,Avenue Lord-byron,rue Lord-Byron,2.29988,48.8733
+730,Matignon,Avenue Matignon,avenue Matignon,2.31281,48.87053
+732,Parmentier,Avenue Parmentier,avenue Parmentier,2.3749,48.86475
+733,Richerand,Avenue Richerand,avenue Richerand,2.366111,48.872222
+734,Du Montparnasse,Boulevard Du Montparnasse,boulevard du Montparnasse,2.32722,48.84278
+735,Beaumarchais,Boulevard Beaumarchais,boulevard Beaumarchais,2.368139,48.857139
+736,Bonne Nouvelle,Boulevard Bonne-nouvelle,boulevard de Bonne-Nouvelle,2.350323,48.870184
+737,Du Temple,Boulevard Du Temple,boulevard du Temple,2.3665083333333,48.863288888889
+738,Bourdon,Boulevard Bourdon,boulevard Bourdon,2.367446,48.851254
+739,De L'hôpital,Boulevard De L'hôpital,boulevard de l'HÃ´pital,2.36027778,48.83805556
+740,Des Trois Couronnes Du Temple,Rue Des Trois-couronnes-du-temple,rue des Trois-Couronnes,2.37676,48.8677
+741,De La Villette,Boulevard De La Villette,boulevard de la Villette,2.37043,48.87852
+742,De Malesherbes,Boulevard De Malesherbes,boulevard Malesherbes,2.31387,48.87976
+743,Des Amandiers,Boulevard Des Amandiers,Boulevard de MÃ©nilmontant,2.38669,48.8634
+744,Des Filles Du Calvaire,Boulevard Des Filles-du-calvaire,boulevard des Filles-du-Calvaire,2.366964,48.862089
+745,Des Invalides,Boulevard Des Invalides,boulevard des Invalides,2.314596,48.85244
+747,De Beauce,Rue De Beauce,rue de Beauce,2.36106,48.8628
+749,Saint Denis,Boulevard Saint-denis,boulevard Saint-Denis,2.353392,48.869514
+750,Sainte Croix De La Bretonnerie,Passage Sainte-croix-de-la-bretonnerie,square Sainte-Croix-de-la-Bretonnerie,2.35437,48.8583
+752,Chemin De Reuilly,Chemin De Reuilly,rue Claude-Decaen,2.399,48.8363
+753,Chemin De Ronde De La Barrière De L' Etoile,Chemin De Ronde De La Barrière De L' Etoile,,,
+754,Chemin Des Carrières,Chemin Des Carrières,rue Sadi-Lecointe,2.37338,48.8806
+755,Cité De Trévise,Cité De Trévise,citÃ© de TrÃ©vise,2.34699,48.8751
+756,Cité Pigale,Cité Pigale,citÃ© Pigalle,2.33388,48.8802
+757,Cité Turgot,Cité Turgot,rue Condorcet,2.34432,48.8801
+758,Cloître Saint Jacques De L'hôpital,Cloître Saint-jacques-de-l'hôpital,rue Pierre-Lescot,2.34889,48.8633
+760,Constantin,Constantin,,,
+761,Cour Batave,Cour Batave,rue Saint-Denis,2.35,48.86416667
+763,Cour De La Bonne Graine,Cour De La Bonne-graine,rue du Faubourg-Saint-Antoine,2.38155,48.8504
+764,Cour Des Fontaines,Cour Des Fontaines,rue MoliÃ¨re,2.33638889,48.86527778
+765,Pecquay,Passage Pecquay,rue Pecquay,2.35592,48.8599
+766,Cour Du Dragon,Cour Du Dragon,rue de Rennes,2.32921,48.8495
+767,Cours La Reine,Cours-la-reine,,,
+770,De Montpensier,Galerie De Montpensier,galerie de Valois,2.33797,48.8641
+771,De La Madeleine,Galerie De La Madeleine,galerie de la Madeleine,2.32269,48.8697
+772,Du Havre,Galerie Du Havre,rue Saint-Lazare,2.330426,48.876062
+773,Saint Marc,Galerie Saint-marc,galerie Saint-Marc,2.34197,48.8706
+774,Vivienne,Galerie Vivienne,galerie Vivienne,2.33972222,48.86666667
+775,Grand Cerf,Grand-cerf,,,
+776,Grande De Reuilly,Grande Rue De Reuilly,rue de Reuilly,2.38961,48.8448
+777,Grande Du Faubourg Saint Antoine,Grande Rue Du Faubourg-saint-antoine,rue du Faubourg-Saint-Antoine,2.38155,48.8504
+778,Grande,Granderue,rue de la Chapelle,2.35945,48.894
+779,Grande,Granderue,avenue de Clichy,2.321087,48.89006
+780,Hôtel De Ville,Hôtel De Ville,place de l'Hôtel-de-Ville - Esplanade de la Libération,2.3513888888889,48.856666666667
+781,Hôtel Sainte Anne,Hôtel Sainte-anne,rue Sainte-Anne,2.33599,48.8672
+782,Brezel,Impasse Brezel,avenue de Clichy,2.321087,48.89006
+783,De L' Allée D' Antin,Impasse De L' Allée D' Antin,impasse d'Antin,2.30907,48.8672
+784,De La Pompe,Impasse De La Pompe,rue Bouchardon,2.35751,48.8702
+785,Des Vosges,Place Des Vosges,place des Vosges,2.3655555555556,48.855555555556
+786,Des Hospitalières,Impasse Des Hospitalières,rue Roger-Verlomme,2.36672,48.8567
+787,Des Payonneaux,Impasse Des Payonneaux,,,
+788,Du Maine,Impasse Du Maine,rue Antoine-Bourdelle,2.31821,48.8429
+789,Saint Nicolas,Impasse Saint-nicolas,rue de Chaumont,2.37184,48.8812
+790,Saint Sébastien,Impasse Saint-sébastien,impasse Saint-SÃ©bastien,2.37093,48.8611
+791,Sandrié,Impasse Sandrié,impasse SandriÃ©,2.32958,48.8717
+792,Jardins Chaillot,Jardins-chaillot,,,
+793,De Harlay,Rue De Harlay,rue des Arquebusiers,2.3666,48.8598
+794,Amélie,Passage Amélie,,,
+795,Basfour,Passage Basfour,passage Basfour,2.3516,48.8661
+796,Brady,Passage Brady,passage Brady,2.3552777777778,48.871125
+797,Cendrière,Passage Cendrière,,,
+798,Choiseul,Passage Choiseul,rue des Petits-Champs,2.33635,48.8669
+799,Colbert,Passage Colbert,rue Vivienne,2.33974,48.8684
+800,Colbert,Passage Colbert,passage Colbert,2.33925,48.8666
+801,D' Angoulème,Passage D' Angoulême,rue Ã‰douard-Lockroy,2.37435,48.8661
+802,D' Encre,Passage D' Encre,passage de l'Ancre,2.35248,48.8644
+803,Dauphine,Passage Dauphine,passage Dauphine,2.33867,48.8549
+804,De L' Industrie,Passage De L' Industrie,rue Gustave-Goublier,2.35588,48.8709
+805,De La Madeleine,Passage De La Madeleine,passage de la Madeleine,2.32379,48.8709
+806,De La Marmite,Passage De La Marmite,,,
+807,De La Neuve Saint Denis,Passage De La Rue Neuve-saint-denis,rue Blondel,2.35304,48.8688
+808,De La Trinité,Passage De La Trinité,passage de la TrinitÃ©,2.35124,48.8658
+809,De Venise,Passage De Venise,,,
+810,Des Beaux Arts,Passage Des Beaux-arts,rue des Beaux-Arts,2.33566,48.8564
+811,Des Champs,Passage Des Champs,,,
+812,Des Douze Maisons,Passage Des Douze-maisons,avenue Montaigne,2.306111,48.866667
+813,Du Baromètre,Passage Du Baromètre,boulevard des Italiens,2.33699722,48.87141944
+814,Du Bourg L' Abbé,Passage Du Bourg-l' Abbé,passage du Bourg-l'AbbÃ©,2.35055556,48.86452778
+815,Du Chant,Passage Du Chant,,,
+816,Du Désir,Passage Du Désir,passage du DÃ©sir,2.35638,48.8734
+817,Du Grand Cerf,Passage Du Grand-cerf,passage de l'Ancre,2.35248,48.8644
+818,Et Rotonde Colbert,Passage Et Rotonde Colbert,rue Vivienne,2.33974,48.8684
+819,Molière,Passage Molière,passage MoliÃ¨re,2.35152,48.8623
+820,Sainte Avoie,Passage Sainte-avoie,passage Sainte-Avoie,2.35613,48.8606
+821,Saul,Passage Saul,,,
+822,Sauvage,Passage Sauvage,rue Clovis-Hugues,2.37405,48.8826
+823,Verdeau,Passage Verdeau,passage Verdeau,2.342318,48.873532
+824,Véro Dodat,Passage Véro-dodat,Galerie VÃ©ro-Dodat,2.340257,48.862718
+825,Petit Cerreau,Petit-cerreau,,,
+826,Petite De Reuilly,Petite Rue De Reuilly,rue Érard,2.3853,48.8458
+827,Petite Du Bac,Petite Rue Du Bac,rue Dupin,2.32524,48.8498
+828,Petite Saint Pierre,Petite Rue Saint-pierre,rue Saint-Sabin,2.36937,48.8579
+829,Ter Petite Saint Pierrre Amelot,Petite-rue-saint-pierre-amelot,rue Saint-Sabin,2.36937,48.8579
+830,Petite Saint Pierre Popincourt,Petite-rue-saint-pierre-popincourt,rue Saint-Sabin,2.36937,48.8579
+833,Belhomme,Place Belhomme,boulevard BarbÃ¨s,2.34944444,48.8875
+834,Collégiale,Place Collégiale,boulevard Saint-Marcel,2.3565972,48.8382641
+835,Dauphine,Place Dauphine,place Dauphine,2.3424277777778,48.856538888889
+836,De L' Arsenal,Place De L' Arsenal,rue de l'Arsenal,2.36622,48.8508
+837,De L' Ecole,Place De L' Ecole,place de l'Ã‰cole,2.34179,48.8592
+838,De L' Oratoire,Place De L' Oratoire,rue de Rivoli,2.3536722222222,48.856916666667
+839,Du Pont Louis Philippe,Rue Du Pont-louis-philippe,rue du Pont-Louis-Philippe,2.35583,48.8553
+840,De La Bourse,Place De La Bourse,place de la Bourse,2.34139,48.8692
+841,Des Ormes,Quai Des Ormes,quai des CÃ©lestins,2.36069,48.8523
+842,De Laborde,Place De Laborde,place Henri-Bergson,2.3211,48.8761
+843,Des Italiens,Place Des Italiens,place Boieldieu,2.33754,48.8708
+844,Des Victoires,Place Des Victoires,place des Victoires,2.3411111111111,48.865833333333
+845,Du Louvre,Place Du Louvre,place du Louvre,2.3405,48.86
+846,Du Palais De Justice,Place Du Palais-de-justice,,,
+847,Jessaint,Place Jessaint,place de la Chapelle,2.35942,48.8848
+848,Maubert,Place Maubert,place Maubert,2.3488,48.8501
+849,Royale,Place Royale,place des Vosges,2.3655555555556,48.855555555556
+850,Saint Germain Des Prés,Place Saint-germain-des-prés,place Saint-Germain-des-PrÃ©s,2.33347,48.8542
+851,Saint Nicolas,Place Saint-nicolas,rue de Turbigo,2.35493,48.8652
+852,Saint Sulpice,Place Saint-sulpice,place Saint-Sulpice,2.3333333333333,48.850833333333
+853,Saint Victor,Place Saint-victor,place Jussieu,2.35478,48.8461
+854,Vendôme,Place Vendôme,Place VendÃ´me,2.3294444444444,48.8675
+855,Poste,Poste,,,
+856,Près Le Pont De La Concorde,Près Le Pont De La Concorde,Pont de la Concorde,2.31944,48.86333
+857,De Conti,Quai De Conti,quai de Conti,2.338155,48.857102
+858,De Jemmapes,Quai De Jemmapes,quai de Jemmapes,2.36369,48.8748
+859,Aux Fleurs,Quai Aux Fleurs,quai aux Fleurs,2.35161,48.8542
+860,Bourbon,Quai Bourbon,quai de Bourbon,2.35547,48.853
+861,D' Anjou,Quai D' Anjou,quai d'Anjou,2.35878,48.8518
+862,D' Austerlitz,Quai D' Austerlitz,quai d'Austerlitz,2.36947,48.8407
+863,D' Orsay,Quai D' Orsay,quai d'Orsay,2.31,48.862777777778
+864,Charlemagne,Rue Charlemagne,rue Charlemagne,2.35916667,48.85444444
+865,De Gèvres,Quai De Gèvres,quai de Gesvres,2.3491,48.8566
+866,De L' Horloge,Quai De L' Horloge,quai de l'Horloge,2.34428,48.8568
+867,De La Grève,Quai De La Grève,quai de l'HÃ´tel-de-Ville,2.35428,48.8546
+868,De La Rapée,Quai De La Rapée,quai de la RapÃ©e,2.37082,48.8431
+869,De La Tournelle,Quai De La Tournelle,quai de la Tournelle,2.35374,48.8503
+870,De Valmy,Quai De Valmy,quai de Valmy,2.36303,48.8749
+871,Des Augustins,Quai Des Augustins,quai des Grands-Augustins,2.34218,48.8548
+872,Malas,Quai Malaquais,quai Malaquais,2.3352,48.8578
+873,Napoléon,Quai Napoléon,quai aux Fleurs,2.35161,48.8542
+874,Pelletier,Quai Pelletier,quai de Gesvres,2.3491,48.8566
+875,Saint Michel,Quai Saint-michel,quai Saint-Michel,2.34561,48.8534
+876,Voltaire,Quai Voltaire,quai Voltaire,2.33075,48.859
+877,Quintaine,Quintaine,,,
+878,Du Contrat Social,Rue Du Contrat-social,rue Berger,2.34605,48.8614
+879,Route D' Orléans,Route D' Orléans,avenue de la Porte-d'OrlÃ©ans,2.32547,48.8212
+880,Route De Montreuil,Route De Montreuil,rue d'Avron,2.40179,48.8519
+881,De Jessaint,Rue De Jessaint,rue de Jessaint,2.35613,48.885
+882,De Montreuil,Rue De Montreuil,rue de Montreuil,2.38949,48.8505
+883,Du Cloître Saint Benoît,Rue Du Cloître-saint-benoît,,,
+885,Berthalet,Rue Berthalet,rue Berthollet,2.34572,48.8387
+886,D' Anjou Dauphine,Rue D' Anjou-dauphine,rue de Nesle,2.3391666666667,48.855138888889
+887,Bourdon,Rue Bourdon,,,
+888,De Breteuil,Avenue De Breteuil,avenue de Breteuil,2.31178,48.84882
+889,Casto,Rue Casto,,,
+890,Champs Beausire,Rue Champs-beausire,,,
+891,Constantine,Rue Constantine,rue VercingÃ©torix,2.31263,48.8336
+892,D' Alibert,Rue D' Alibert,rue Alibert,2.36754,48.8716
+893,D' Angoulème,Rue D' Angoulème,rue La Boétie,2.3123,48.8732
+894,Mayet,Rue Mayet,rue Mayet,2.31901,48.8465
+895,D' Erfurt,Rue D' Erfurt,,,
+897,De Bercy,Rue De Bercy,rue de Bercy,2.37703,48.8417
+898,De Cologne,Rue De Cologne,,,
+899,De Duras,Rue De Duras,rue de Duras,2.31787,48.8709
+900,De Harlay,Rue De Harlay,rue de Harlay,2.34307,48.8564
+901,De L' Ert,Rue De L' Ert,,,
+902,De L' Oratoire Du Louvre,Rue De L' Oratoire-du-louvre,rue de l'Oratoire,2.34026,48.8616
+903,De L' Orme,Rue De L' Orme,rue Jacques-CÅ“ur,2.36728,48.8524
+904,De L' Oseille,Rue De L' Oseille,rue de Poitou,2.36292,48.8615
+905,De L'hôtel De Ville,Rue De L'hôtel-de-ville,rue de l'HÃ´tel-de-Ville,2.35639,48.8542
+906,De La Boule Blanche,Rue De La Boule-blanche,,,
+907,De La Cité,Rue De La Cité,rue de la CitÃ©,2.34771,48.8546
+908,De La Coutellerie,Rue De La Coutellerie,rue de la Coutellerie,2.35054,48.8574
+910,De La Fontaine,Rue De La Fontaine,,,
+911,De La Fontaine,Rue De La Fontaine,rue Jean-de-La-Fontaine,2.2714444444444,48.850777777778
+912,De La Fontaine Du Moulin,Rue De La Fontaine-du-moulin,,,
+913,Des Poitevins,Rue Des Poitevins,rue des Poitevins,2.3426,48.8525
+914,De La Nation,Rue De La Nation,rue de Sofia,2.34826,48.8848
+915,De La Paix,Rue De La Paix,rue La Condamine,2.32182,48.8859
+916,De La Poterie,Rue De La Poterie,,,
+917,De La Révolte,Rue De La Révolte,,,
+918,De La Savonnerie,Rue De La Savonnerie,rue de Rivoli,2.3536722222222,48.856916666667
+919,De La Tannerie,Rue De La Tannerie,,,
+921,De La Vannerie,Rue De La Vannerie,avenue Victoria,2.348417,48.8575314
+922,Saint Hyacinthe Saint Michel,Rue Saint-hyacinthe-saint-michel,rue Malebranche,2.34233,48.8464
+923,Christine,Rue Christine,rue Christine,2.33997,48.8545
+924,De L'écluse,Rue De L'écluse,rue LÃ©cluse,2.32555,48.8839
+925,De Lerche,Rue De Lerche,,,
+926,De Long Champs,Rue De Long-champs,rue de Longchamp,2.28221,48.8659
+927,De Mantour,Rue De Mantour,rue de Courcelles,2.30103,48.8813
+928,Des Maçons,Rue Des Maçons,rue Champollion,2.34264,48.8494
+930,De Monceau,Rue De Monceau,rue de Monceau,2.31126,48.878
+931,De Paris,Rue De Paris,rue de Bagnolet,2.40261,48.8594
+932,De Paris,Rue De Paris,,,
+933,De Paris,Rue De Paris,rue de Belleville,2.39379,48.8753
+934,De Paris,Rue De Paris,avenue de la Porte-de-la-Chapelle,2.358692,48.899766
+935,De Querlin,Rue De Querlin,,,
+936,De Cluny,Rue De Cluny,rue Victor-Cousin,2.34227,48.8476
+937,Du Montparnasse,Rue Du Montparnasse,rue du Montparnasse,2.32661,48.8433
+939,De Sèvres,Rue De Sèvres,rue Lecourbe,2.29576,48.8405
+940,De Valois Du Roule,Rue De Valois-du-roule,rue de Monceau,2.31126,48.878
+941,De Vanvres,Rue De Vanvres,rue Raymond-Losserand,2.31417,48.8319
+942,Delaitre,Rue Delaitre,rue Delaitre,2.38748,48.8673
+943,Des Accacias,Rue Des Accacias,rue d'Orsel,2.34444444,48.88388889
+944,Des Arts,Rue Des Arts,,,
+945,Des Batailles,Rue Des Batailles,avenue d'IÃ©na,2.29569444,48.86833333
+946,Des Bourguignons,Rue Des Bourguignons,boulevard de Port-Royal,2.3435641,48.8380011
+947,Des Carrières,Rue Des Carrières,rue Ganneron,2.32785,48.888
+948,Des Couronnes,Rue Des Couronnes,rue des Couronnes,2.38537,48.8703
+949,Des Dames,Rue Des Dames,rue des Dames,2.3208,48.8836
+950,D' Ulm,Rue D' Ulm,rue d'Ulm,2.34472,48.8436
+951,Des Jardins Saint Paul,Rue Des Jardins-saint-paul,rue des Jardins-Saint-Paul,2.36058,48.8535
+952,Des Marais,Rue Des Marais,,,
+953,De La Montagne Sainte Geneviève,Rue De La Montagne-sainte-geneviève,rue de la Montagne-Sainte-GeneviÃ¨ve,2.34852,48.8475
+954,Des Mécaniques,Rue Des Mécaniques,rue Saint-Denis,2.35,48.86416667
+955,Des Mouliers,Rue Des Mouliers,,,
+956,Des Orties,Rue Des Orties,,,
+957,Chartière,Rue Chartière,,,
+958,Des Petits Hôtels,Rue Des Petits-hôtels,rue des Petits-HÃ´tels,2.35333,48.8775
+959,Du Val De Grâce,Rue Du Val-de-grâce,rue du Val-de-GrÃ¢ce,2.3393,48.8413
+960,Des Rigoles,Rue Des Rigoles,rue des Rigoles,2.39232,48.8726
+961,Des Sardines,Rue Des Sardines,,,
+962,Des Sareines,Rue Des Sareines,Rue Des Sardines (Unknown),,
+964,Doudeauville,Rue Doudeauville,rue Doudeauville,2.35406,48.8885
+965,Des Postes,Rue Des Postes,rue Lhomond,2.34598,48.8438
+966,Du Bac D' Asnières,Rue Du Bac-d' Asnières,rue LÃ©on-Cosnard,2.31259,48.8837
+967,Du Bourg Tibourg,Rue Du Bourg-tibourg,rue du Bourg-Tibourg,2.35627,48.8575
+968,Du Cadran,Rue Du Cadran,rue LÃ©opold-Bellan,2.34588,48.8666
+969,Du Chemin Vert,Rue Du Chemin-vert,rue du Chemin-Vert,2.37639,48.8596
+970,Du Delta,Rue Du Delta,rue du Delta,2.34817,48.8824
+971,Du Faubourg Poissonnière,Rue Du Faubourg Poissonnière,rue du Faubourg-Saint-Antoine,2.38155,48.8504
+972,Carrefour De L' Observatoire,Carrefour De L' Observatoire,avenue de l'Observatoire,2.3367436,48.8402906
+973,Du Panthéon,Place Du Panthéon,place du Panthéon,2.345077,48.846446
+974,Du Foin,Rue Du Foin,rue du Foin,2.36519,48.8569
+975,Du Four Saint Honoré,Rue Du Four-saint-honoré,rue Vauvilliers,2.3433,48.8617
+977,Du Parc Royal,Rue Du Parc-royal,rue du Parc-Royal,2.36333,48.8585
+978,Du Petit Musc,Rue Du Petit-musc,rue du Petit-Musc,2.36225,48.8517
+979,Du Pont De La Réforme,Rue Du Pont-de-la-réforme,rue du Pont-Louis-Philippe,2.35583,48.8553
+980,Du Rousseau,Rue Du Rousseau,rue du Ruisseau,2.34054,48.8942
+981,Du Théâtre,Rue Du Théâtre,rue Vandamme,2.32294,48.8395
+982,Du Vieux Chemin,Rue Du Vieux-chemin,rue Ravignan,2.33787,48.8855
+983,Et Hôtel Des Trois Frères,Rue Et Hôtel Des Trois-frères,rue des Trois-FrÃ¨res,2.34093,48.8848
+984,Et Des Prouvaires,Rue Et Passage Des Prouvaires,rue des Prouvaires,2.34419,48.8616
+985,Et De L' Ecole De Médecine,Rue Et Place De L' Ecole-de-médecine,rue de l'Ã‰cole-de-MÃ©decine,2.341,48.8509
+986,Frutier,Rue Frutier,Vermutlich: Rue Feutrier,,
+987,Gît Le Coeur,Rue Gît-le-coeur,rue GÃ®t-le-CÅ“ur,2.342695,48.853776
+988,Grégoire De Tours,Rue Grégoire-de-tours,rue GrÃ©goire-de-Tours,2.33787,48.8532
+990,Léonie,Rue Léonie,rue des Trois-FrÃ¨res,2.34093,48.8848
+991,Marbeuf,Rue Marbeuf,rue Marbeuf,2.30343,48.8685
+992,Martin,Rue Martin,rue CailliÃ©,2.36468,48.8853
+993,Mercière,Rue Mercière,"Rue Mercier, Rue De Viarmes (Unknown)",,
+994,De Dunkerque,Rue De Dunkerque,rue de Dunkerque,2.35155,48.8807
+995,Molay,Rue Molay,rue des Archives,2.3578,48.860865
+996,Montesquieu,Rue Montesquieu,rue Montesquieu,2.33883,48.8631
+997,Myrrha,Rue Myrrha,rue Myrha,2.35226,48.8869
+998,Neuve De L' Eglise,Rue Neuve-de-l' Eglise,rue Jean-Bologne,2.2801,48.8571
+1000,Neuve Saint Paul,Rue Neuve-saint-paul,rue Charles-V,2.36284,48.8529
+1001,Oblin,Rue Oblin,rue de Viarmes,2.34228,48.8628
+1002,Paradis,Rue Paradis,,,
+1003,Pavée,Rue Pavée,rue PavÃ©e,2.36103,48.8565
+1004,Pichat,Rue Pichat,rue Bichat,2.36638,48.8729
+1006,Pinon,Rue Pinon,rue Rossini,2.33919,48.8731
+1007,Des Francs Bourgeois,Rue Des Francs-bourgeois,rue des Francs-Bourgeois,2.3622166666667,48.8571
+1008,Princesse,Rue Princesse,rue Princesse,2.33449,48.8523
+1010,Richard Lenoir,Rue Richard-lenoir,rue Richard-Lenoir,2.38167,48.8557
+1011,Rousselet Saint Germain,Rue Rousselet-saint-germain,rue Rousselet,2.31835,48.8489
+1012,Saint Gilles Au Marais,Rue Saint-gilles-au-marais,rue Saint-Gilles,2.36606,48.8579
+1014,Saint Hyacinthe Saint Honoré,Rue Saint-hyacinthe-saint-honoré,rue Saint-Hyacinthe,2.33172,48.866
+1015,Saint Landry,Rue Saint-landry,Parvis Notre-Dame â€“ Place Jean-Paul-II,2.34839,48.85351
+1016,Saint Maré De La Bretonnerie,Rue Saint-maré-de-la-bretonnerie,,,
+1017,Saint Nicaise,Rue Saint-nicaise,place du Carrousel,2.3327777777778,48.861944444444
+1018,Saint Paxent,Rue Saint-paxent,rue Bailly,2.3563,48.8651
+1020,Saint Pierre Amelot,"Rue Saint-pierre, Amelot",rue Amelot,2.36795,48.8603
+1022,Sainte Croix,Rue Sainte-croix,rue de Caumartin,2.32824444,48.87251944
+1023,Sainte Marguerite,Rue Sainte-marguerite,rue Trousseau,2.37888,48.8518
+1024,Sainte Marie Beaujon,Rue Sainte-marie-beaujon,avenue Hoche,2.300552,48.876091
+1025,Salneuve,Rue Salneuve,rue Salneuve,2.3144444444444,48.885555555556
+1026,Sedaine,Rue Sedaine,rue Sedaine,2.37565,48.8573
+1027,Vieille Du Temple,Rue Vieille-du-temple,rue du Pont-Louis-Philippe,2.35583,48.8553
+1028,Terrasse Vivienne,Terrasse Vivienne,,,
+1029,Tour Du Temple,Tour-du-temple,"Rue Delatour, Ab 1864 Rue Rampon (Unknown)",,
+1030,Valois Palais Royal,Valois-palais-royal,rue de Valois,2.33832,48.8642
+1031,Valois Tuileries,Valois-tuileries,,,
