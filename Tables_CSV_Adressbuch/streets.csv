@@ -43,13 +43,13 @@ id,name_old_verbatim,name_old_clean,name_new,geo_long,geo_lat
 45,De L' Arbre Sec,Rue De L' Arbre-sec,rue de l'Arbre-Sec,2.34215,48.86
 46,De L' Arcade,Rue De L' Arcade,rue de l'Arcade,2.32419,48.873
 47,De L' Arcade Colbert,Rue De L' Arcade-colbert,rue Colbert,2.33836,48.8682
-48,De L' Arche Pépin,Rue De L' Arche-pépin,rue Ã‰douard-Colonne,2.34556,48.8579
+48,De L' Arche Pépin,Rue De L' Arche-pépin,rue Édouard-Colonne,2.34556,48.8579
 49,De L' Echaudé Saint Germain,Rue De L' Echaudé-saint-germain,rue de l'échaudé,2.33608,48.8539
 50,De L' Echelle,Rue De L' Echelle,rue de l'échelle,2.33399,48.8635
 51,De L' Echiquier,Rue De L' Echiquier,rue de l'échiquier,2.35043,48.8715
 52,Des Poissonniers,Rue Des Poissonniers,rue des Poissonniers,2.35111,48.8878
-53,De L' Ecole De Médecine,Rue De L' Ecole De Médecine,rue de l'Ã‰cole-de-MÃ©decine,2.341,48.8509
-54,De L' Ecole De Médecine,Rue De L' Ecole-de-médecine,rue de l'Ã‰cole-de-MÃ©decine,2.341,48.8509
+53,De L' Ecole De Médecine,Rue De L' Ecole De Médecine,rue de l'école de médecine,2.341,48.8509
+54,De L' Ecole De Médecine,Rue De L' Ecole-de-médecine,rue de l'école de médecine,2.341,48.8509
 55,De L' Egoût Saint Germain,Rue De L' Egoût-saint-germain,rue de Rennes,2.32921,48.8495
 56,De L' Entrepôt,Rue De L' Entrepôt,rue Yves-Toudic,2.36388889,48.86972222
 57,De L' Eperon,Rue De L' Eperon,rue de l'éperon,2.34066,48.8527
@@ -63,7 +63,7 @@ id,name_old_verbatim,name_old_clean,name_new,geo_long,geo_lat
 65,De La Chapelle Saint Denis,Boulevard De La Chapelle-saint-denis,boulevard de la Chapelle,2.35916667,48.88416667
 66,Des Vertus,Boulevard Des Vertus,boulevard de la Chapelle,2.35916667,48.88416667
 67,De L' Université,Rue De L' Université,rue de l'Université,2.31594,48.8609
-68,D' Allemagne,Rue D' Allemagne,avenue Jean-JaurÃ¨s,2.38337,48.8862
+68,D' Allemagne,Rue D' Allemagne,avenue Jean-Jaurès,2.38337,48.8862
 69,De La Banque,Rue De La Banque,rue de la Banque,2.34103,48.8681
 70,D' Antin,Rue D' Antin,rue Biot,2.32563,48.8848
 71,De La Barillerie,Rue De La Barillerie,boulevard du Palais,2.3457725,48.8551865
