@@ -24,3 +24,4 @@ Il suffit d'exécuter **'chemin_vers_l'application/nom_application/bin/cake serv
 Lors du lancement, une page ne fonctionnait pas à cause de la clause **ONLY_FULL_GROUP_BY** dans la variable **sqlmode** de phpMyAdmin, il suffit d'effacer la clause de la variable pour que la page fonctionne. 
 
 * *pour plus d'informations à propos de [Cakephp 4x](https://book.cakephp.org/4/en/index.html)*.
+*  *voir [ici](Numerisation.md) la suite du projet avec la numerisation de Adressbuch.
