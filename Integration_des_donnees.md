@@ -22,5 +22,5 @@ Pour éviter la moindre perte dans notre travail, nous avions effectué une sauv
 Pour éviter des erreurs lors de l'intégration des données, nous importons d'abord les tables courantes qui continnent les données puis les tables associatives qui assurent les jointures entre les tables courantes. 
 Nous déselectionnons **verification des clés étrangères** car ces dernières sont déjà créées. 
 Lorsque que nous intégrons les données avec la vérification activée, nous avons une erreur à cause d'une contrainte de clé étrangère.
-Les tables ont été importées avec succès, nous devions vérifier les jointures étaient bien effectuées en effectuant des requêtes SQL impliquant différentes tables. 
+Les tables ont été importées avec succès, nous devions vérifier que les jointures étaient bien effectuées en effectuant des requêtes SQL impliquant différentes tables. 
 
