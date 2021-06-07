@@ -4,7 +4,7 @@
 **I) Création des difféentes tables de données**
 
 Une base de données SQL avait été créée avec l'aide de l'outil de conceptualisation [Mocodo](http://www.mocodo.net/).  
-Une fois que notre fichier de données était nettoyée avec Open Refine, il fallait le fragmenter pour créer les tables pour la base de données SQL. 
+Une fois que notre fichier de données était [nettoyée avec Open Refine](/Nettoyage_Open_Refine.md), il fallait le fragmenter pour créer les tables pour la base de données SQL. 
 Pour cela, on choisit **export tabulaire personnalisé** sur Open Refine qui permet de choisir le format et les colonnes que l'on souhaite exporter. 
 Il fallait également créer de nouvelles colonnes, notamment des identifiants qui permettent de créer des jointures entre les tables courantes. 
 Les tables associatives ont également été créées. 
