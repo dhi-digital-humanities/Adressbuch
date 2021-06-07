@@ -29,6 +29,6 @@ On a plus qu´a démarrer la réconciliation.
 Certaines données vont correspondre automatiquement, d´autres devront être réconciliés par nous-mêmes et enfin les dernières peuvent être inconnues pour la base de données.  
 Nos données sont associées à une base de données externe ce qui nous permet d'ajouter des colonnes à partir de ces données réconciliées. Depuis **editer une colonne** > **ajouter une colonne à partir des valeurs réconciliées**, nous pouvons obtenir d'autres données dans la source externe comme les coordonnées GPS dans notre cas mais aussi des identifiants pour des personnes par la VIAF ou la GND par exemple.
 
-*Pour plus d'informations vous pouvez vous référer à la [documentation d'Open Refine](https://docs.openrefine.org/).*
+* *Pour plus d'informations vous pouvez vous référer à la [documentation d'Open Refine](https://docs.openrefine.org/).*
 
-* *voir la suite du projet avec [l'intégration des données](Integration_des_donnees.md) dans la base SQL.*
+* *voir [ici](Integration_des_donnees.md) la suite du projet avec l'intégration des données dans la base SQL.*
