@@ -24,5 +24,5 @@ Nous déselectionnons **verification des clés étrangères** car ces dernières
 Lorsque que nous intégrons les données avec la vérification activée, nous avons une erreur à cause d'une contrainte de clé étrangère.
 Les tables ont été importées avec succès, nous devions vérifier que les jointures étaient bien effectuées en effectuant des requêtes SQL impliquant différentes tables. 
 
- * *voir la suite du projet avec [l'interface utilisateur et la base de données SQL](Interconnexion_*
+ * *voir la suite du projet avec [l'interface utilisateur et la base de données SQL](Interconnexion_Cakephp_BaseSQL.md)*
 
