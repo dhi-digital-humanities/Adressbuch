@@ -8,7 +8,9 @@ souhaitent les consulter.
 L'extraction s'est faite en ligne de commande avec file dans un script Bash. Le script était le suivant : for i in * .jpg; do file $i > $i.csv; done;.  
 
 
-
+<p align=center>
+  <img src="/screenshots/commandfile.png"
+</p>
 
 
 Dans cette commande, nous demandons que pour tous les fichier au format JPEG, nous souhations les métadonnées avec un format de sortie en CSV. 
