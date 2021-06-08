@@ -20,3 +20,5 @@ Le document primaire n'est pas oublié au détriment des nouvelles technologies.
 L'annuaire des allemands de 1854, nous permet d'apprendre enormément de choses sur les personnes qui y figurent. On peut connaître leurs noms, prénoms, adresses, métiers. Nous pouvons savoir si ils ont recu la légion d'honneur et si oui quel grade ils occupent commme chevalier, commandeur ou grand-officier. Nous pouvons savoir si les allemands figurant dans cet annuaire ont des entreprises ou encore s'ils sont des nobles. Enfin, consulter le document primaire permet de repérer ses particulairtés comme une erreur de pagination, ce qui fait que nous passons de la page 144 à 161. 
 
 * *Adressbuch est toujours consultable sur l'ancienne interface [ici](http://adressbuch1854.dhi-paris.fr)*
+* *voir [ici](Interconnexion_Cakephp_BaseSQL.md) l'étape précédente sur l'interconnexion entre Cakephp et la base de données SQl*
+* *voir [ici](Extraction_metadonnees_redimensionnement.md) l'étape suivante pour extraire les métadonnées et redimensionner les pages numérisées*
