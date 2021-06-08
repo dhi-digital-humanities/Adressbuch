@@ -21,4 +21,4 @@ L'annuaire des allemands de 1854, nous permet d'apprendre enormément de choses 
 
 * *Adressbuch est toujours consultable sur l'ancienne interface [ici](http://adressbuch1854.dhi-paris.fr)*
 * *voir [ici](Interconnexion_Cakephp_BaseSQL.md) l'étape précédente sur l'interconnexion entre Cakephp et la base de données SQl*
-* *voir [ici](Extraction_metadonnees_redimensionnement.md) l'étape suivante pour extraire les métadonnées et redimensionner les pages numérisées*
+* *voir [ici](Extraction_metadonnees_redimensionnement.md) la suite du projet pour extraire les métadonnées et redimensionner les pages numérisées*
