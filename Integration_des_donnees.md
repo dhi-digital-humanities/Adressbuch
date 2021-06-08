@@ -25,5 +25,6 @@ Lorsque que nous intégrons les données avec la vérification activée, nous av
 Les tables ont été importées avec succès, nous devions vérifier que les jointures étaient bien effectuées en effectuant des requêtes SQL impliquant différentes tables. 
 
  * *voir [ici](Nettoyage_Open_Refine.md) l'étape précédente sur le nettoyage des données avec Open Refine.*
+ * *les tables SQl de Adressbuch sont disponibles [ici](Tables_SQL)*
  * *voir [ici](Interconnexion_Cakephp_BaseSQL.md) la suite du projet avec l'interconnexion entre Cakephp et la base SQL*
 
