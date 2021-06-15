@@ -968,4 +968,5 @@ INSERT INTO streets (id,name_old_verbatim,name_old_clean,name_new,geo_long,geo_l
 ( '1028','Terrasse Vivienne','Terrasse Vivienne',null,'0','0' ),
 ( '1029','Tour Du Temple','Tour-du-temple','Rue Delatour, Ab 1864 Rue Rampon (unknown)','0','0' ),
 ( '1030','Valois Palais Royal','Valois-palais-royal','Rue De Valois','2.33832','48.8642' ),
-( '1031','Valois Tuileries','Valois-tuileries',null,'0','0' )
+( '1031','Valois Tuileries','Valois-tuileries',null,'0','0' ),
+( '1032', 'Unknown', 'Unknown', 'Unknown', null, '0', '0')
