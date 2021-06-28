@@ -7,8 +7,6 @@
 		
 		return json;
 	}
-	
-	
 
 	function getID(currentplace) {
 		var id = currentplace["@ID"];
@@ -22,10 +20,10 @@
 
 	function getCoords(currentplace) {
 		var array = new Array;
-		var lat = currentplace.coords.lat;
+		var lat = currentplace.coords["lat"];
 		var lng = currentplace.coords["long"];
-		array.push(6112-Number(lat));
-		array.push(Number(lng));
+		array.push(Number(lat));
+		array.push(6112-Number(lng));
 		return array;
 	}
 	
@@ -48,7 +46,7 @@
 	}
 	
 	function getPlace(map){
-		for (var i = 0;i < eventsJson.length; i++){
+		for ( var i = 0;i < eventsJson.length; i++){
 			var currentevent = eventsJson[i];
 			var currentplaceID = currentevent.EreignisOrt;
 			var currentplace = getObjectByID(placesJson, currentplaceID);
@@ -92,4 +90,6 @@
 		}
 		eventmarker.openPopup();
 		map.setView(eventmarker.getLatLng(),0);
-	}
+	
+
+}
