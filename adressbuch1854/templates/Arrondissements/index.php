@@ -2,11 +2,9 @@
 /**
  * @var \App\View\AppView $this
  * @var \App\Model\Entity\Arrondissement[]|\Cake\Collection\CollectionInterface $arrondissements
- 
- $limit = the number of items displayed per page
+
  */
- 
- $limit=20;
+
 ?>
 <div class="row">
     <?= $this->element('sideNav', ['mapBox' => false, 'export' => 'all'])?>
@@ -25,9 +23,9 @@
 					</thead>
 					<tbody>
 						<?php
-							$countNo = 1;
+							$countNo = 1 + (($this->Paginator->current('Arrondissements')-1) * $this->Paginator->param('perPage'));
 							foreach ($arrondissements as $arrondissement): ?>
-						<?php				
+						<?php
 						$noStr;
 						$no = $arrondissement->no;
 						if($no == 1){
@@ -59,10 +57,12 @@
 				<p><?= $this->Paginator->counter(__('Seite {{page}} von {{pages}}, zeige {{current}} Arrondissement(s) von {{count}}')) ?></p>
 			</div>
 		</div>
-		<div class="bigMap">
-			<div id="mapBox" class="content" onload="initializeMap(true)">
-				<?= $this->Html->script('map_paris_leaflet.js') ?>
+		<!-- <div class="bigMap">
+			<div id="mapBox" class="content" onload="initializeMap()">
+				<?= $this->Html->script('address-map.js') ?>
 			</div>
 		</div>
+        This is a placeholder for a map
+        -->
 	</div>
 </div>
