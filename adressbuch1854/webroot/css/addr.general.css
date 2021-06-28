@@ -16,6 +16,7 @@
 
 #dhi-logo {
 	float: left;
+	widht: 100;
 }
 
 #credits {
@@ -35,11 +36,13 @@
 
 footer {
 	background-color: #5F9EA0;
+	
 }
 
 header {
 	background-color: #5F9EA0;
 	margin-bottom: 0;
+	
 }
 
 .top-nav {
@@ -53,4 +56,15 @@ header {
 
 aside {
 	margin-right: 10px;
+}
+
+blockquote{
+
+    display: block;
+    width: 70%;
+    border: 3px solid #A0A0A0;
+    border-radius: 10px;
+    float: right;
+   text-align: justify;
+   line-height: 2.2;
 }
