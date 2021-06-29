@@ -4,6 +4,7 @@
  * @var \App\Model\Entity\Street[]|\Cake\Collection\CollectionInterface $streets
  */
 ?>
+
 <div class="row">
     <?= $this->element('sideNav', ['mapBox' => false, 'export' => 'all'])?>
     <div class="column-responsive column-80">
@@ -20,8 +21,8 @@
 						</tr>
 					</thead>
 					<tbody>
-						<?php 
-						$countNo = 1;
+						<?php
+						$countNo = 1 + (($this->Paginator->current('Streets')-1) * $this->Paginator->param('perPage'));
 						foreach ($streets as $street): ?>
 						<?php
 							$arrsOld = [];
@@ -36,7 +37,7 @@
 						?>
 						<tr>
 							<td><?= $this->Number->format($countNo) ?></td>
-							<td><?= $this->Html->link(h($street->name_old_clean), ['action' => 'view', $street->id]) ?></td>
+							<td><?= htmlspecialchars_decode($this->Html->link(h($street->name_old_clean), ['action' => 'view', $street->id])) ?></td>
 							<td><?= h($street->name_new) ?></td>
 							<td>
 								<table>
@@ -68,10 +69,12 @@
 				<p><?= $this->Paginator->counter(__('Seite {{page}} von {{pages}}, zeige {{current}} Straße(n) von {{count}}')) ?></p>
 			</div>
 		</div>
-		<div class="bigMap">
-			<div id="mapBox" class="content" onload="initializeMap(true)">
-				<?= $this->Html->script('map_paris_leaflet.js') ?>
+		<!-- <div class="bigMap">
+			<div id="mapBox" class="content" onload="initializeMap()">
+				<?= $this->Html->script('address-map.js') ?>
 			</div>
 		</div>
+        This is a placeholder for a map
+        -->
 	</div>
 </div>
