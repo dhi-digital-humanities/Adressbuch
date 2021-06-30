@@ -3,6 +3,11 @@
  * @var \App\View\AppView $this
  * @var \App\Model\Entity\Person $person
  */
+
+require(__DIR__.'/../functions/img_zotero.php');
+require (__DIR__.'/../functions/varspersons.php');
+
+
 	$name = '';
 	if(!empty($person->title)){
 		$name.=h($person->title).' ';
@@ -47,34 +52,15 @@
 			<?= !empty($pageRefs) ? __('Eintrag im Buch auf ').implode(' und ', $pageRefs).'.' : ''?>
             <table>
             	<tr>
-            		<th><?= __('Numerisation de la page') ?></th>
+            		<th><?= __('Scan der Seite') ?></th>
             		<td>
             			
-				<?php
-
-					function afficherimage($path, $taille, $id, $begP)
-						{
-							$code_html_image = "<a target='_blank' href=/../img/HD/BHVP_703983_$begP.jpg>";
-							$code_html_image.=" <img src='";
-							$code_html_image.= $path;
-							$code_html_image.= $taille;
-							$code_html_image.= $id;
-							$code_html_image.= $begP;
-							$code_html_image.= ".jpg'";
-							$code_html_image.= " width = '100'";
-							$code_html_image.= "title= 'consulter l IHA pour exploiter la page $begP'";
-
-
-						return ($code_html_image); 
-						}
-
-							print afficherimage('/../img/','SD/','BHVP_703983_',$begP);?><br>
+							<?php print image('/../img/','SD/','BHVP_703983_',$begP);?><br>
 						
-
 						<details>
-							<summary>voir la page en HD</summary>
+							<summary>Seite in HD ansehen</summary>
 						<form>
-							<button type='submit' title="Consulter l'IHA pour exploiter la page <?php echo $begP?>" formtarget='_blank' formaction='/../img/HD/BHVP_703983_<?php echo $begP ?>.jpg'
+							<button type='submit' title="IHA zur Nutzung der Seite <?php echo $begP?>" formtarget='_blank' formaction='/../img/HD/BHVP_703983_<?php echo $begP ?>.jpg'
 
 							value="text">BHVP_703983_<?php echo $begP?>.jpg</button>
 						</form>
@@ -83,10 +69,10 @@
             	   </td> 
             	</tr>
             	<tr>
-            		<th><?= __('Ocerisations')?></th>
+            		<th><?= __('Volltexterkennung')?></th>
             		<td>
             		<details>
-							<summary>voir la page océrisée</summary>
+							<summary>Volltext der Seite ansehen</summary>
 						<form>
 							<button type='submit' formtarget='_blank' formaction='/../Ocerisations/BHVP_703983_<?php echo $begP ?>.txt'
 
@@ -197,54 +183,12 @@
 			<div>
 <?php endif; ?>
 
-		<?php
-			       //$person=htmlentities($person);
-					$precision=$person->specification_verbatim;
-					$precision2=$person->profession_verbatim;
-					$military_status=$person->military_status->status;
-					$social_status=$person->social_status->status;
-					$occupation_status=$person->occupation_status->status;
-					$gender=$person->gender;
-						if($gender === 'M'){
-							echo 'Männlich';
-						} elseif ($gender === 'F'){
-							echo 'Weiblich';
-						} else {
-							echo 'Nicht bekannt';
-						} 
-					
-
-
- 			function citationzotero($name, $precision, $precision2, $military_status, $social_status, $occupation_status, $gender, $begP){
-
-		    	$code_span= '<span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=';
-		        $code_span.=$name;
-		        $code_span.='&amp;rft.description=';
-		        $code_span.=$precision;
-		        $code_span.=',';
-		        $code_span.=$precision2;
-		        $code_span.=',';
-		        $code_span.=$military_status;
-		        $code_span.=',';
-		        $code_span.=$social_status;
-		        $code_span.=',';
-		        $code_span.=$occupation_status;
-		        $code_span.=',';
-		        $code_span.=$gender;
-		        $code_span.='&amp;rft.btitle=Adressbuch%20der%20Deutschen%20in%20Paris%20f%C3%BCr%20das%20Jahr%201854&amp;rft.place=Paris&amp;rft.edition=Elektronische%20Edition&amp;rft.aufirst=F.&amp;rft.aulast=Kronauge&amp;rft.au=F.%20Kronauge&amp;rft.date=1854&amp;rft.pages=';
-		        $code_span.=$begP;
-		        $code_span.= '&amp;rft.language=Allemand">'; 
-		        
-
-        	return ($code_span);
-                                      } ?>
-
 </div>
 
  <br><div class="csl-bib-body" style="line-height: 1.35; margin-left: 2em; text-indent:-2em;">
   <div class="csl-entry">Kronauge, F. «&nbsp;<?php echo $name ?>&nbsp;». In <i>Adressbuch der Deutschen in Paris für das Jahr 1854</i>, Elektronische Edition., <?php echo $begP ?>, 1854. <a target="_blank" href='<?php  $this->request->getUri() ?>'><?php echo $this->request->getUri() ?></a>.</div>
 
-<?php print citationzotero($name, $precision, $precision2, $military_status, $social_status,$occupation_status, $gender, $begP);?>
+<?php print zoteroperson($name, $precision, $precision2, $military_status, $social_status,$occupation_status, $gender, $ldh, $begP);?>
           
 
 </div>
