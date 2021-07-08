@@ -66,8 +66,8 @@ Info Page Addressbook
 
 				</blockquote><br>
 			<a target='_blank' href=/../img/BHVP_703983_001.jpg>
-			<img src='/../img/BHVP_703983_001.jpg' width="200px" alt="Page d'accueil du Adressbuch" title="Consulter l'IHA pour exploiter cette image" /></a><br>
-				<a target='_blank' href=/../img/BHVP_703983_019.jpg><img src='/../img/BHVP_703983_019.jpg' width="200px" alt="Page 19 du Adressbuch" title="Consulter l'IHA pour exploiter cette image" /></a>
+			<img src='/../img/BHVP_703983_001.jpg' width="200px" alt="Seite der Adressbuch" title="IHA zur Nutzung der Seite" /></a><br>
+				<a target='_blank' href=/../img/BHVP_703983_019.jpg><img src='/../img/BHVP_703983_019.jpg' width="200px" alt="Seite der Adressbuch" title="IHA zur Nutzung der Seite" /></a>
 			
 
 				<br>
