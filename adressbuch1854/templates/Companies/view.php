@@ -39,7 +39,7 @@ require(__DIR__.'/../functions/varscomp.php');
 							<?php print image('/../img/','SD/','BHVP_703983_',$begP);?><br>
 						
 						<details>
-							<summary>Seite in HD ansehen</summary>
+							<summary><?= __('Seite in HD ansehen')?></summary>
 						<form>
 							<button type='submit' title="IHA zur Nutzung der Seite <?php echo $begP?>" formtarget='_blank' formaction='/../img/HD/BHVP_703983_<?php echo $begP ?>.jpg'
 
@@ -53,7 +53,7 @@ require(__DIR__.'/../functions/varscomp.php');
             		<th><?= __('Volltexterkennung')?></th>
             		<td>
             		<details>
-							<summary>Volltext der Seite ansehen</summary>
+							<summary><?= __('Volltext der Seite ansehen')?></summary>
 						<form>
 							<button type='submit' formtarget='_blank' formaction='/../Ocerisations/BHVP_703983_<?php echo $begP ?>.txt'
 
@@ -128,7 +128,7 @@ require(__DIR__.'/../functions/varscomp.php');
  <br><div class="csl-bib-body" style="line-height: 1.35; margin-left: 2em; text-indent:-2em;">
   <div class="csl-entry">Kronauge, F.«&nbsp;<?php echo $nachname ?>&nbsp;». In <i>Adressbuch der Deutschen in Paris für das Jahr 1854</i>, Elektronische Edition., <?php echo $begP ?>, 1854. <a target="_blank" href='<?php  $this->request->getUri() ?>'><?php echo $this->request->getUri() ?></a>.</div>
 
-<?php print zoterocomp($nachname, $prof_category, $specification, $profession, $begP);?>
+<?php print zoterocomp($nachname, $prof_category, $specification, $profession, $addr_no, $addr_old, $addr_new, $begP);?>
 </div>
 
 </div>
