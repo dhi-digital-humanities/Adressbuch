@@ -6,6 +6,7 @@
 use Cake\Collection\Collection;
 
 
+
 require(__DIR__.'/../functions/img_zotero.php');
 require(__DIR__.'/../functions/varsarr.php');
 
@@ -19,7 +20,8 @@ require(__DIR__.'/../functions/varsarr.php');
 	} else {
 		$noStr = $no.'ième Arrondissement ('.$type.')';
 	}
-?>
+		 ?>
+	
 <div class="row">
     <?= $this->element('sideNav', ['mapBox' => false, 'export' => 'all'])?>
     <div class="column-responsive column-80">
@@ -49,9 +51,7 @@ require(__DIR__.'/../functions/varsarr.php');
             <div class="related">
                 <details>
 					<?= '<summary title="'.__('Klicken für Details').'"><h4>'.__('Personen in diesem Arrondissement').'</h4></summary>' ?>
-					<?= $this->element('personsMultiTable', ['persons' => $persons],['order'=>['id'=> 'ASC']])?>
-
-					
+					<?= $this->element('personsMultiTable', ['persons' => $persons],['order'=>['id'=> 'ASC']])?>				
 				</details>
             </div>
 			<?php endif; ?>
