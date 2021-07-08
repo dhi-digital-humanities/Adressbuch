@@ -81,7 +81,7 @@
  <br><div class="csl-bib-body" style="line-height: 1.35; margin-left: 2em; text-indent:-2em;">
   <div class="csl-entry">Kronauge, F. «&nbsp;<?php echo $street_name ?>&nbsp;». In <i>Adressbuch der Deutschen in Paris für das Jahr 1854</i>, Elektronische Edition, 1854. <a target="_blank" href='<?php  $this->request->getUri() ?>'><?php echo $this->request->getUri() ?></a>.</div>
 
-<?php print zoterostreets($street_name, $street_new)?>
+<?php print zoterostreets($street_name, $no_old, $no_new, $street_new)?>
           
 
 </div>
