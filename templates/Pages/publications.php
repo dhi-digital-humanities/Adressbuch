@@ -8,7 +8,7 @@ Info Page Related Articles
     <?= $this->element('sideNav', ['mapBox' => false, 'export' => 'simple'])?>
     <div class="column-responsive column-80">
 		<div class="content">
-			<h3><?= __('Links, Publikationen und Software') ?></h3>
+			<h3><?= __('Links und Publikationen') ?></h3>
 	<table>
 		<tr>
 			<td>
@@ -96,7 +96,10 @@ Info Page Related Articles
   <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Georg%20Kibler%2C%20M%C3%B6belbauer%2C%20Rue%20de%20Charonne%2039%3A%20Adre%C3%9Fbuch%20der%20Deutschen%20in%20Paris%20f%C3%BCr%20das%20Jahr%201854&amp;rft.jtitle=Francia%2030%2F3%20(2003)&amp;rft.aufirst=Mareike&amp;rft.aulast=K%C3%B6nig&amp;rft.au=Mareike%20K%C3%B6nig&amp;rft.date=2004&amp;rft.pages=143-156&amp;rft.spage=143&amp;rft.epage=156&amp;rft.language=fr"></span></div>
 		</td>
 	</tr>
-		<tr>
+</table>
+<br><h3><?= __('Software')?></h3>
+<table>
+	<tr>
 			<td>
 				<div class="csl-bib-body" style="line-height: 1.35; margin-left: 2em; text-indent:-2em;">
 				<div class="csl-entry"><i>Cake PHP</i> (version 4x). Windows, PHP, <a href="https://cakephp.org/">https://cakephp.org/</a>.</div>
@@ -117,7 +120,7 @@ Info Page Related Articles
   				<span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=computerProgram&amp;rft.title=phpMyAdmin&amp;rft.identifier=https%3A%2F%2Fwww.phpmyadmin.net"></span></div>
 			</td>
 		</tr>
-	</table>
+</table>
 </div>
 </div>
 </div>
