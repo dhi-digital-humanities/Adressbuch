@@ -13,8 +13,16 @@ Info Page Related Articles
 		<tr>
 			<td>
 				<div class="csl-bib-body" style="line-height: 1.35; margin-left: 2em; text-indent:-2em;">
-  <div class="csl-entry">Archives de Paris : <i>Correspondance entre les anciens et nouveaux arrondissements, </i><a href="http://archives.paris.fr/_depot_ad75/_depot_arko/articles/47/correspondance-entre-les-arrondissements-anciens-et-nouveaux_doc.pdf">http://archives.paris.fr/_depot_ad75/_depot_arko/articles/47/correspondance-entre-les-arrondissements-anciens-et-nouveaux_doc.pdf</a>.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=webpage&amp;rft.identifier=http%3A%2F%2Farchives.paris.fr%2F_depot_ad75%2F_depot_arko%2Farticles%2F47%2Fcorrespondance-entre-les-arrondissements-anciens-et-nouveaux_doc.pdf"></span>
+  <div class="csl-entry">Archive de Paris: Correspondance entre les anciens et nouveaux arrondissements, <a href="http://archives.paris.fr/_depot_ad75/_depot_arko/articles/47/correspondance-entre-les-arrondissements-anciens-et-nouveaux_doc.pdf">http://archives.paris.fr/_depot_ad75/_depot_arko/articles/47/correspondance-entre-les-arrondissements-anciens-et-nouveaux_doc.pdf</a>.</div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=document&amp;rft.title=Archive%20de%20Paris%20%3A%20Correspondance%20entre%20les%20anciens%20et%20nouveaux%20arrondissements&amp;rft.identifier=http%3A%2F%2Farchives.paris.fr%2F_depot_ad75%2F_depot_arko%2Farticles%2F47%2Fcorrespondance-entre-les-arrondissements-anciens-et-nouveaux_doc.pdf"></span>
+</div>
+			</td>
+		</tr>
+		<tr>
+			<td>
+					<div class="csl-bib-body" style="line-height: 1.35; margin-left: 2em; text-indent:-2em;">
+  <div class="csl-entry">History of work information system, <a href="https://historyofwork.iisg.nl/index.php">https://historyofwork.iisg.nl/index.php</a>.</div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=document&amp;rft.title=History%20of%20work%20information%20system&amp;rft.identifier=https%3A%2F%2Fhistoryofwork.iisg.nl%2Findex.php"></span>
 </div>
 			</td>
 		</tr>
