@@ -175,3 +175,25 @@ th {
         content: " \2190";
     }
 }
+.p {
+    position: absolute;
+    display: block;
+    float: left;
+    margin-left: 17%;
+    margin-right: 5%;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-top: 10px; 
+    padding-bottom: 10px;
+    line-height: 2;
+    border-radius: 10px;
+    border: 1px solid  #5F9EA0;
+    text-align: justify;
+}
+
+.homepage {
+    display: block;
+
+    width: 18%;
+    
+}
