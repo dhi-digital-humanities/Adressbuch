@@ -1,4 +1,7 @@
 <?php
+/*
+Info Pages related Partner und Mitarbeiter
+*/
 
 ?>
 
