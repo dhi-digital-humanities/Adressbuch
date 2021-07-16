@@ -37,8 +37,8 @@ th {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    max-width: 112rem;
-    padding: 2rem;
+    max-width: 130rem;
+    padding: auto;
     margin: 0 auto 2rem;
 }
 .top-nav-title a {
