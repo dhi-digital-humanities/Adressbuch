@@ -48,7 +48,7 @@ require (__DIR__.'/../functions/varspersons.php');
     <?= $this->element('sideNav', ['mapBox' => true, 'export' => 'all'])?>
     <div class="column-responsive column-80">
         <div class="persons view content">
-            <h3><?= h($name) ?></h3>
+            <h3><?= htmlspecialchars_decode(h($name)) ?></h3>
 			<?= !empty($pageRefs) ? __('Eintrag im Buch auf ').implode(' und ', $pageRefs).'.' : ''?>
             <table>
             	<tr>
