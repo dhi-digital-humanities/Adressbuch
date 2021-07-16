@@ -81,7 +81,7 @@ $description = 'Adressbuch 1854';
 		<?= $this->Html->link(__('Das Adressbuch'), ['controller' => 'Pages', 'action' => 'addressbook'], ['class' => 'top-nav-item']) ?>
 		<?= $this->Html->link(__('Das Projekt'), ['controller' => 'Pages', 'action' => 'project'], ['class' => 'top-nav-item']) ?>
 		<?= $this->Html->link(__('Links und Publikationen'), ['controller' => 'Pages', 'action' => 'publications'], ['class' => 'top-nav-item']) ?>
-        <?= $this->Html->link(__('Partner und Projektleitung'), ['controller'=>'Pages', 'action'=>'partners'], ['class'=>'top-nav-item']) ?>
+        <?= $this->Html->link(__('Partner und Team'), ['controller'=>'Pages', 'action'=>'partners'], ['class'=>'top-nav-item']) ?>
 
     </nav>
     <main class="main">
