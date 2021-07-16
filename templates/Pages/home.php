@@ -9,7 +9,17 @@ Homepage
     <div class="column-responsive column-80">
 		<div class="content">
 			<h3><?= __('Willkommen') ?></h3>
-			<p>Hier kann eine schöne Ankunftsseite erscheinen!</p>
+			<h4><?=__('Projekt Adressbuch 1854') ?></h4>
+			<p class='p'>
+			Relaunch of <a href='http://adressbuch1854.dhi-paris.fr'>http://adressbuch1854.dhi-paris.fr</a><br>
+
+			A project by Deutsches Historisches Institut Paris (DHIP), Department for Digital Humanities<br>
+
+			Website of the DHIP: <a href='https://www.dhi-paris.fr/home.html'>https://www.dhi-paris.fr/home.html</a><br>
+
+			Website of the Department: <a href='https://www.dhi-paris.fr/forschung/digital-humanities.html'>https://www.dhi-paris.fr/forschung/digital-humanities.html</a>
+
+		</p>
 		</div>
 	</div>
 </div>
